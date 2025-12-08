@@ -1,0 +1,5810 @@
+{
+  "meta": {
+    "generated_at": "2025-12-08T06:34:10.514201",
+    "date_key": "2025-12-08",
+    "status": "SUCCESS"
+  },
+  "cargofax_time_series": [
+    {
+      "y": 2025,
+      "m": 12,
+      "cf_shipments": 281587,
+      "cf_teus": 698283.0,
+      "cf_containers": 427285,
+      "cf_weight": 8152314457.67
+    },
+    {
+      "y": 2025,
+      "m": 11,
+      "cf_shipments": 1591773,
+      "cf_teus": 3878416.0,
+      "cf_containers": 2388139,
+      "cf_weight": 55186959074.15
+    },
+    {
+      "y": 2025,
+      "m": 10,
+      "cf_shipments": 1642244,
+      "cf_teus": 3968103.0,
+      "cf_containers": 2446830,
+      "cf_weight": 63456565792.86
+    },
+    {
+      "y": 2025,
+      "m": 9,
+      "cf_shipments": 1643802,
+      "cf_teus": 3992903.0,
+      "cf_containers": 2459776,
+      "cf_weight": 60607723630.88
+    },
+    {
+      "y": 2025,
+      "m": 8,
+      "cf_shipments": 1764195,
+      "cf_teus": 4313929.0,
+      "cf_containers": 2648829,
+      "cf_weight": 61983692693.78
+    },
+    {
+      "y": 2025,
+      "m": 7,
+      "cf_shipments": 1783844,
+      "cf_teus": 4341317.0,
+      "cf_containers": 2694905,
+      "cf_weight": 79224226985.95
+    },
+    {
+      "y": 2025,
+      "m": 6,
+      "cf_shipments": 1591030,
+      "cf_teus": 3920890.0,
+      "cf_containers": 2424693,
+      "cf_weight": 58424945155.81
+    },
+    {
+      "y": 2025,
+      "m": 5,
+      "cf_shipments": 1469318,
+      "cf_teus": 3592570.0,
+      "cf_containers": 2241862,
+      "cf_weight": 51797154764.12
+    },
+    {
+      "y": 2025,
+      "m": 4,
+      "cf_shipments": 3301016,
+      "cf_teus": 4117639.0,
+      "cf_containers": 2804052,
+      "cf_weight": 66808413771.32
+    },
+    {
+      "y": 2025,
+      "m": 3,
+      "cf_shipments": 2715689,
+      "cf_teus": 4494360.0,
+      "cf_containers": 3128933,
+      "cf_weight": 162109575444.59
+    },
+    {
+      "y": 2025,
+      "m": 2,
+      "cf_shipments": 2595067,
+      "cf_teus": 4514708.0,
+      "cf_containers": 3006033,
+      "cf_weight": 55828205458.71
+    },
+    {
+      "y": 2025,
+      "m": 1,
+      "cf_shipments": 2960830,
+      "cf_teus": 5091947.0,
+      "cf_containers": 3426095,
+      "cf_weight": 73695313470.72
+    },
+    {
+      "y": 2024,
+      "m": 12,
+      "cf_shipments": 2561378,
+      "cf_teus": 5046254.0,
+      "cf_containers": 3351364,
+      "cf_weight": 88983926063.41
+    },
+    {
+      "y": 2024,
+      "m": 11,
+      "cf_shipments": 2528531,
+      "cf_teus": 5096045.0,
+      "cf_containers": 3318243,
+      "cf_weight": 81886023069.19
+    },
+    {
+      "y": 2024,
+      "m": 10,
+      "cf_shipments": 2668706,
+      "cf_teus": 5406721.0,
+      "cf_containers": 3478674,
+      "cf_weight": 53343476905.33
+    },
+    {
+      "y": 2024,
+      "m": 9,
+      "cf_shipments": 1746621,
+      "cf_teus": 2915195.0,
+      "cf_containers": 1767401,
+      "cf_weight": 52463231660.87
+    },
+    {
+      "y": 2024,
+      "m": 8,
+      "cf_shipments": 2043114,
+      "cf_teus": 3442015.0,
+      "cf_containers": 2121809,
+      "cf_weight": 62686592162.89
+    },
+    {
+      "y": 2024,
+      "m": 7,
+      "cf_shipments": 2212240,
+      "cf_teus": 3336491.0,
+      "cf_containers": 2046048,
+      "cf_weight": 124776149428.54
+    },
+    {
+      "y": 2024,
+      "m": 6,
+      "cf_shipments": 1978514,
+      "cf_teus": 3747171.0,
+      "cf_containers": 2283215,
+      "cf_weight": 56983701609.68
+    }
+  ],
+  "cargofax_rankings": [
+    {
+      "category": "Commodities",
+      "name": "HS 8609 - Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport",
+      "count_shipments": 3326,
+      "sum_teu": 45242.0,
+      "sum_weight": 144133602.87473577,
+      "sum_containers": 26787,
+      "rn": 1
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9403 - Furniture and parts thereof, n.e.c. in chapter 94",
+      "count_shipments": 11064,
+      "sum_teu": 28407.0,
+      "sum_weight": 180111481.66715354,
+      "sum_containers": 15555,
+      "rn": 2
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9401 - Seats (not those of heading no. 9402), whether or not convertible into beds and parts thereof",
+      "count_shipments": 10251,
+      "sum_teu": 26348.0,
+      "sum_weight": 101636546.62183052,
+      "sum_containers": 14121,
+      "rn": 3
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8708 - Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "count_shipments": 6609,
+      "sum_teu": 17401.0,
+      "sum_weight": 113093686.0303,
+      "sum_containers": 10578,
+      "rn": 4
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 4011 - New pneumatic tyres, of rubber",
+      "count_shipments": 4191,
+      "sum_teu": 14691.0,
+      "sum_weight": 87699009.64265044,
+      "sum_containers": 7631,
+      "rn": 5
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 4202 - Trunks; suit, camera, jewellery, cutlery cases; travel, tool, similar bags; wholly or mainly covered by leather, composition leather, plastic sheeting, textile materials, vulcanised fibre, paperboard",
+      "count_shipments": 5032,
+      "sum_teu": 10709.0,
+      "sum_weight": 55652754.92979289,
+      "sum_containers": 6190,
+      "rn": 6
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9503 - Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",
+      "count_shipments": 4065,
+      "sum_teu": 10391.0,
+      "sum_weight": 34852805.64326732,
+      "sum_containers": 5751,
+      "rn": 7
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 3923 - Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",
+      "count_shipments": 4343,
+      "sum_teu": 9309.0,
+      "sum_weight": 78049630.88355362,
+      "sum_containers": 5354,
+      "rn": 8
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8418 - Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading no. 8415",
+      "count_shipments": 2086,
+      "sum_teu": 8167.0,
+      "sum_weight": 25568814.617612105,
+      "sum_containers": 4355,
+      "rn": 9
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 3924 - Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",
+      "count_shipments": 3298,
+      "sum_teu": 6946.0,
+      "sum_weight": 41324149.6331522,
+      "sum_containers": 3901,
+      "rn": 10
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8541 - Diodes, transistors, similar semiconductor devices; including photovoltaic cells assembled or not in modules or panels, light-emitting diodes (LED), mounted piezo-electric crystals",
+      "count_shipments": 786,
+      "sum_teu": 6424.0,
+      "sum_weight": 84614634.44876668,
+      "sum_containers": 4036,
+      "rn": 11
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9405 - Lamps, light fittings; including searchlights, spotlights and parts thereof, n.e.c.; illuminated signs, name-plates and the like, having permanently fixed light source and parts thereof n.e.c. or included",
+      "count_shipments": 2682,
+      "sum_teu": 5999.0,
+      "sum_weight": 26999755.36972358,
+      "sum_containers": 3410,
+      "rn": 12
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 3926 - Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",
+      "count_shipments": 2704,
+      "sum_teu": 5734.0,
+      "sum_weight": 39386431.323593184,
+      "sum_containers": 3210,
+      "rn": 13
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8607 - Railway or tramway locomotives or rolling stock; parts thereof",
+      "count_shipments": 2533,
+      "sum_teu": 5715.0,
+      "sum_weight": 44882090.21051247,
+      "sum_containers": 3718,
+      "rn": 14
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8302 - Base metal mountings, fittings and similar articles for furniture, doors, staircases, windows, trunks, chests etc, castors with mountings of base metal, automatic door closers of base metal",
+      "count_shipments": 2427,
+      "sum_teu": 5527.0,
+      "sum_weight": 46064449.425789475,
+      "sum_containers": 3308,
+      "rn": 15
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 4819 - Cartons, boxes, cases, bags and the like, of paper, paperboard, cellulose wadding or fibres; box files, letter trays and the like, of paper or paperboard, of a kind used in offices, shops or the like",
+      "count_shipments": 2266,
+      "sum_teu": 5194.0,
+      "sum_weight": 34136345.37724415,
+      "sum_containers": 2977,
+      "rn": 16
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7907 - Zinc; articles n.e.c. in chapter 79",
+      "count_shipments": 2487,
+      "sum_teu": 4743.0,
+      "sum_weight": 29587755.93769448,
+      "sum_containers": 2910,
+      "rn": 17
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9506 - Gymnastics, athletics, other sports (including table tennis) or outdoor games equipment, n.e.c. in this chapter, swimming pools and paddling pools",
+      "count_shipments": 1969,
+      "sum_teu": 4691.0,
+      "sum_weight": 32305504.354764085,
+      "sum_containers": 2808,
+      "rn": 18
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 3918 - Floor coverings of plastics, self-adhesive or not, in rolls or tiles; wall or ceiling coverings of plastics, in rolls of a width not less than 45cm",
+      "count_shipments": 1925,
+      "sum_teu": 4631.0,
+      "sum_weight": 81783202.20604911,
+      "sum_containers": 3992,
+      "rn": 19
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6307 - Textiles; made up articles n.e.c. in chapter 63, including dress patterns",
+      "count_shipments": 1938,
+      "sum_teu": 4265.0,
+      "sum_weight": 24397888.871215902,
+      "sum_containers": 2430,
+      "rn": 20
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2204 - Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",
+      "count_shipments": 2306,
+      "sum_teu": 4107.0,
+      "sum_weight": 43011343.49449792,
+      "sum_containers": 2783,
+      "rn": 21
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 4602 - Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or made up from goods of heading no. 4601; articles of loofah",
+      "count_shipments": 1645,
+      "sum_teu": 4087.0,
+      "sum_weight": 98958369.54339524,
+      "sum_containers": 2187,
+      "rn": 22
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 803 - Bananas, including plantains; fresh or dried",
+      "count_shipments": 1041,
+      "sum_teu": 3862.0,
+      "sum_weight": 46550973.00262177,
+      "sum_containers": 1956,
+      "rn": 23
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8507 - Electric accumulators, including separators therefor; whether or not rectangular (including square)",
+      "count_shipments": 1196,
+      "sum_teu": 3838.0,
+      "sum_weight": 42126830.81039816,
+      "sum_containers": 2535,
+      "rn": 24
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8516 - Electric water, space, soil heaters; electro-thermic hair-dressing apparatus; hand dryers, irons; electro-thermic appliances for domestic purposes; electro heating resistors, not of heading no. 8545",
+      "count_shipments": 1218,
+      "sum_teu": 3785.0,
+      "sum_weight": 19523512.288720958,
+      "sum_containers": 2092,
+      "rn": 25
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9404 - Mattress supports; articles of bedding (e.g. mattresses, quilts, eiderdowns, cushions pouffes and pillows), fitted with springs or stuffed, whether or not covered",
+      "count_shipments": 1542,
+      "sum_teu": 3631.0,
+      "sum_weight": 19531576.210031662,
+      "sum_containers": 1984,
+      "rn": 26
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6302 - Bed linen, table linen, toilet linen and kitchen linen",
+      "count_shipments": 1516,
+      "sum_teu": 3467.0,
+      "sum_weight": 22132577.556186553,
+      "sum_containers": 1954,
+      "rn": 27
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9999 - Commodities not specified according to kind",
+      "count_shipments": 1774,
+      "sum_teu": 3449.0,
+      "sum_weight": 14799083.09002912,
+      "sum_containers": 2074,
+      "rn": 28
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 1902 - Pasta; whether or not cooked or stuffed with meat or other substance, or otherwise prepared, egg spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+      "count_shipments": 1466,
+      "sum_teu": 3374.0,
+      "sum_weight": 25195158.68364616,
+      "sum_containers": 1850,
+      "rn": 29
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8544 - Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",
+      "count_shipments": 1312,
+      "sum_teu": 3295.0,
+      "sum_weight": 22682874.7556495,
+      "sum_containers": 2015,
+      "rn": 30
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6907 - Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics",
+      "count_shipments": 2336,
+      "sum_teu": 3275.0,
+      "sum_weight": 66601582.58842794,
+      "sum_containers": 3110,
+      "rn": 31
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6403 - Footwear; with outer soles of rubber, plastics, leather or composition leather and uppers of leather",
+      "count_shipments": 1172,
+      "sum_teu": 3175.0,
+      "sum_weight": 9921150.567843892,
+      "sum_containers": 1772,
+      "rn": 32
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8414 - Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",
+      "count_shipments": 1318,
+      "sum_teu": 3048.0,
+      "sum_weight": 17035937.76720705,
+      "sum_containers": 1873,
+      "rn": 33
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9603 - Brooms, brushes (including parts of machines), hand operated floor sweepers, mops and feather dusters; knots and tufts for broom or brush making; paint pads and rollers; squeegees",
+      "count_shipments": 1566,
+      "sum_teu": 3031.0,
+      "sum_weight": 18373777.825285085,
+      "sum_containers": 1820,
+      "rn": 34
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7318 - Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of iron or steel",
+      "count_shipments": 1844,
+      "sum_teu": 2850.0,
+      "sum_weight": 31531312.45977992,
+      "sum_containers": 2407,
+      "rn": 35
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 4412 - Plywood, veneered panels and similar laminated wood",
+      "count_shipments": 843,
+      "sum_teu": 2763.0,
+      "sum_weight": 40814865.49850768,
+      "sum_containers": 1721,
+      "rn": 36
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6204 - Suits, ensembles, jackets, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear); women's or girls' (not knitted or crocheted)",
+      "count_shipments": 1471,
+      "sum_teu": 2714.0,
+      "sum_weight": 12775695.041086446,
+      "sum_containers": 1658,
+      "rn": 37
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8504 - Electric transformers, static converters (e.g. rectifiers) and inductors",
+      "count_shipments": 1230,
+      "sum_teu": 2711.0,
+      "sum_weight": 22222400.399034753,
+      "sum_containers": 1907,
+      "rn": 38
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "count_shipments": 1248,
+      "sum_teu": 2701.0,
+      "sum_weight": 23260885.70618973,
+      "sum_containers": 1478,
+      "rn": 39
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7323 - Table, kitchen, other household articles and parts, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel",
+      "count_shipments": 1167,
+      "sum_teu": 2642.0,
+      "sum_weight": 16090921.411744427,
+      "sum_containers": 1445,
+      "rn": 40
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6304 - Furnishing articles; excluding those of heading no. 9404",
+      "count_shipments": 1272,
+      "sum_teu": 2631.0,
+      "sum_weight": 13744455.339287497,
+      "sum_containers": 1525,
+      "rn": 41
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7308 - Structures of iron or steel and parts thereof; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures",
+      "count_shipments": 968,
+      "sum_teu": 2612.0,
+      "sum_weight": 28563768.555742033,
+      "sum_containers": 1688,
+      "rn": 42
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8803 - Aircraft; parts of heading no. 8801 or 8802",
+      "count_shipments": 1199,
+      "sum_teu": 2511.0,
+      "sum_weight": 15771308.504912412,
+      "sum_containers": 1620,
+      "rn": 43
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7010 - Carboys, bottles, flasks, jars, pots, phials, ampoules, containers of glass of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures of glass",
+      "count_shipments": 791,
+      "sum_teu": 2505.0,
+      "sum_weight": 20533155.855430868,
+      "sum_containers": 1403,
+      "rn": 44
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8435 - Presses, crushers and similar machinery; used in the manufacture of wine, cider, fruit juices or similar beverages",
+      "count_shipments": 130,
+      "sum_teu": 2412.0,
+      "sum_weight": 22202218.689515654,
+      "sum_containers": 1210,
+      "rn": 45
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 3920 - Plastics; plates, sheets, film, foil and strip (not self-adhesive); non-cellular and not reinforced, laminated, supported or similarly combined with other materials, n.e.c. in chapter 39",
+      "count_shipments": 962,
+      "sum_teu": 2403.0,
+      "sum_weight": 25718993.955883555,
+      "sum_containers": 1507,
+      "rn": 46
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2009 - Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",
+      "count_shipments": 872,
+      "sum_teu": 2396.0,
+      "sum_weight": 101378750.99549128,
+      "sum_containers": 1640,
+      "rn": 47
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6702 - Flowers, foliage and fruit, artificial, and parts thereof; articles made of artificial flowers, foliage or fruit",
+      "count_shipments": 933,
+      "sum_teu": 2392.0,
+      "sum_weight": 9931646.173236204,
+      "sum_containers": 1311,
+      "rn": 48
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 5603 - Nonwovens; whether or not impregnated, coated, covered or laminated",
+      "count_shipments": 772,
+      "sum_teu": 2387.0,
+      "sum_weight": 13932608.88107701,
+      "sum_containers": 1348,
+      "rn": 49
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9018 - Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight testing instruments",
+      "count_shipments": 1004,
+      "sum_teu": 2327.0,
+      "sum_weight": 10605187.663724361,
+      "sum_containers": 1411,
+      "rn": 50
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8529 - Transmission apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8525 to 8528",
+      "count_shipments": 353,
+      "sum_teu": 2297.0,
+      "sum_weight": 8120204.963231759,
+      "sum_containers": 1202,
+      "rn": 51
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8419 - Machinery, plant (not domestic), or laboratory equipment; electrically heated or not, (excluding items in 85.14) for the treatment of materials by a process involving change of temperature; including instantaneous or non electric storage water heaters",
+      "count_shipments": 854,
+      "sum_teu": 2242.0,
+      "sum_weight": 11321754.173925664,
+      "sum_containers": 1279,
+      "rn": 52
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6109 - T-shirts, singlets and other vests; knitted or crocheted",
+      "count_shipments": 1130,
+      "sum_teu": 2203.0,
+      "sum_weight": 13292980.775281,
+      "sum_containers": 1270,
+      "rn": 53
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6810 - Cement, concrete or artificial stone; whether or not reinforced, articles thereof",
+      "count_shipments": 1626,
+      "sum_teu": 2151.0,
+      "sum_weight": 43159164.116019994,
+      "sum_containers": 2023,
+      "rn": 54
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 4823 - Paper, paperboard, cellulose wadding and webs of cellulose fibres; cut to size or shape, articles of paper pulp, paper and paper-board, cellulose wadding or webs of cellulose fibres, n.e.c. in chapter 48",
+      "count_shipments": 845,
+      "sum_teu": 2113.0,
+      "sum_weight": 12505506.232783882,
+      "sum_containers": 1190,
+      "rn": 55
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8481 - Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",
+      "count_shipments": 1166,
+      "sum_teu": 2089.0,
+      "sum_weight": 14625436.140913174,
+      "sum_containers": 1444,
+      "rn": 56
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "count_shipments": 1025,
+      "sum_teu": 2087.0,
+      "sum_weight": 30176419.022661503,
+      "sum_containers": 1490,
+      "rn": 57
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 4818 - Toilet paper, width 36cm or less or cut to size/shape; handkerchiefs, tissues, towels, serviettes, bed sheets and similar household or hospital articles, apparel and clothing accessories of paper pulp, paper, cellulose wadding or webs of cellulose fibres",
+      "count_shipments": 761,
+      "sum_teu": 2057.0,
+      "sum_weight": 12643253.516116155,
+      "sum_containers": 1090,
+      "rn": 58
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8528 - Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",
+      "count_shipments": 775,
+      "sum_teu": 2057.0,
+      "sum_weight": 8274430.543549455,
+      "sum_containers": 1145,
+      "rn": 59
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7007 - Safety glass, consisting of toughened (tempered) or laminated glass",
+      "count_shipments": 495,
+      "sum_teu": 2039.0,
+      "sum_weight": 25943754.762353603,
+      "sum_containers": 1524,
+      "rn": 60
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 1006 - Rice",
+      "count_shipments": 829,
+      "sum_teu": 2007.0,
+      "sum_weight": 38467453.674020916,
+      "sum_containers": 1952,
+      "rn": 61
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8450 - Household or laundry-type washing machines; including machines which both wash and dry",
+      "count_shipments": 521,
+      "sum_teu": 2004.0,
+      "sum_weight": 7922722.990746705,
+      "sum_containers": 1026,
+      "rn": 62
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8716 - Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",
+      "count_shipments": 768,
+      "sum_teu": 1997.0,
+      "sum_weight": 17697781.686712448,
+      "sum_containers": 1211,
+      "rn": 63
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6802 - Monumental or building stone, worked (except slate) and articles thereof (not of heading no. 6801) mosaic cubes etc., of natural stone including slate; artificially coloured granules of natural stone",
+      "count_shipments": 1443,
+      "sum_teu": 1990.0,
+      "sum_weight": 44471148.52750134,
+      "sum_containers": 1917,
+      "rn": 64
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6110 - Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted",
+      "count_shipments": 962,
+      "sum_teu": 1989.0,
+      "sum_weight": 7532641.839500685,
+      "sum_containers": 1157,
+      "rn": 65
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8415 - Air conditioning machines; comprising a motor driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated",
+      "count_shipments": 635,
+      "sum_teu": 1986.0,
+      "sum_weight": 10401798.795012292,
+      "sum_containers": 1172,
+      "rn": 66
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 3304 - Cosmetic and toilet preparations; beauty, make-up and skin care preparations (excluding medicaments, including sunscreen or sun tan preparations), manicure or pedicure preparations",
+      "count_shipments": 991,
+      "sum_teu": 1977.0,
+      "sum_weight": 11074202.836370895,
+      "sum_containers": 1262,
+      "rn": 67
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6301 - Blankets and travelling rugs",
+      "count_shipments": 842,
+      "sum_teu": 1956.0,
+      "sum_weight": 11007961.515091036,
+      "sum_containers": 1072,
+      "rn": 68
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "count_shipments": 878,
+      "sum_teu": 1920.0,
+      "sum_weight": 23659457.122615237,
+      "sum_containers": 1227,
+      "rn": 69
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6402 - Footwear; with outer soles and uppers of rubber or plastics (excluding waterproof footwear)",
+      "count_shipments": 868,
+      "sum_teu": 1913.0,
+      "sum_weight": 7485748.686086491,
+      "sum_containers": 1178,
+      "rn": 70
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7013 - Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than of heading no. 7010 or 7018)",
+      "count_shipments": 820,
+      "sum_teu": 1894.0,
+      "sum_weight": 11012257.696265116,
+      "sum_containers": 1061,
+      "rn": 71
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2106 - Food preparations not elsewhere specified or included",
+      "count_shipments": 935,
+      "sum_teu": 1877.0,
+      "sum_weight": 20591201.47292504,
+      "sum_containers": 1269,
+      "rn": 72
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8431 - Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430",
+      "count_shipments": 829,
+      "sum_teu": 1871.0,
+      "sum_weight": 19839423.405811433,
+      "sum_containers": 1366,
+      "rn": 73
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2208 - Ethyl alcohol, undenatured; of an alcoholic strength by volume of less than 80% volume; spirits, liqueurs and other spirituous beverages",
+      "count_shipments": 932,
+      "sum_teu": 1866.0,
+      "sum_weight": 21135612.689769667,
+      "sum_containers": 1146,
+      "rn": 74
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8508 - Vacuum cleaners",
+      "count_shipments": 632,
+      "sum_teu": 1846.0,
+      "sum_weight": 8346811.933593998,
+      "sum_containers": 972,
+      "rn": 75
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6910 - Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures",
+      "count_shipments": 522,
+      "sum_teu": 1757.0,
+      "sum_weight": 13376651.257504694,
+      "sum_containers": 942,
+      "rn": 76
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2309 - Preparations of a kind used in animal feeding",
+      "count_shipments": 662,
+      "sum_teu": 1723.0,
+      "sum_weight": 16740492.935635166,
+      "sum_containers": 992,
+      "rn": 77
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7009 - Glass mirrors; whether or not framed, including rear-view mirrors",
+      "count_shipments": 821,
+      "sum_teu": 1716.0,
+      "sum_weight": 11175566.838929158,
+      "sum_containers": 1016,
+      "rn": 78
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 5911 - Textile products and articles for technical uses; specified in note 7 to this chapter",
+      "count_shipments": 760,
+      "sum_teu": 1711.0,
+      "sum_weight": 9350723.591085993,
+      "sum_containers": 997,
+      "rn": 79
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6203 - Suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear); men's or boys' (not knitted or crocheted)",
+      "count_shipments": 849,
+      "sum_teu": 1704.0,
+      "sum_weight": 8157199.149613085,
+      "sum_containers": 991,
+      "rn": 80
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 901 - Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+      "count_shipments": 711,
+      "sum_teu": 1703.0,
+      "sum_weight": 23797249.30424291,
+      "sum_containers": 1321,
+      "rn": 81
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8421 - Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",
+      "count_shipments": 722,
+      "sum_teu": 1688.0,
+      "sum_weight": 7970990.431276138,
+      "sum_containers": 986,
+      "rn": 82
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6401 - Footwear; waterproof, with outer soles and uppers of rubber or plastics, (uppers not fixed to the sole nor assembled by stitch, rivet, nail, screw, plug or similar)",
+      "count_shipments": 676,
+      "sum_teu": 1655.0,
+      "sum_weight": 6562294.4539557835,
+      "sum_containers": 975,
+      "rn": 83
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 804 - Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",
+      "count_shipments": 571,
+      "sum_teu": 1644.0,
+      "sum_weight": 22866019.193076357,
+      "sum_containers": 853,
+      "rn": 84
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "count_shipments": 746,
+      "sum_teu": 1641.0,
+      "sum_weight": 157370397.02232584,
+      "sum_containers": 959,
+      "rn": 85
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8608 - Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts thereof",
+      "count_shipments": 681,
+      "sum_teu": 1640.0,
+      "sum_weight": 10678134.32978926,
+      "sum_containers": 1007,
+      "rn": 86
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9402 - Furniture; medical, surgical, dental or veterinary (e.g. operating tables, hospital beds, dentists' chairs) barbers' chairs; parts",
+      "count_shipments": 699,
+      "sum_teu": 1610.0,
+      "sum_weight": 12198161.81321044,
+      "sum_containers": 912,
+      "rn": 87
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6404 - Footwear; with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials",
+      "count_shipments": 552,
+      "sum_teu": 1608.0,
+      "sum_weight": 4655008.52179514,
+      "sum_containers": 917,
+      "rn": 88
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7321 - Stoves, ranges, grates, cookers (those with subsidiary boilers for central heating), barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances and parts, of iron or steel",
+      "count_shipments": 490,
+      "sum_teu": 1605.0,
+      "sum_weight": 9191767.710517006,
+      "sum_containers": 869,
+      "rn": 89
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6911 - Tableware, kitchenware, other household articles and toilet articles; of porcelain or china",
+      "count_shipments": 790,
+      "sum_teu": 1576.0,
+      "sum_weight": 12448854.819043646,
+      "sum_containers": 910,
+      "rn": 90
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8483 - Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings",
+      "count_shipments": 767,
+      "sum_teu": 1565.0,
+      "sum_weight": 14668734.540963976,
+      "sum_containers": 1047,
+      "rn": 91
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9504 - Video game consoles and machines, articles for funfair, table or parlour games, including pintables, billiards, special tables for casino games and automatic bowling alley equipment",
+      "count_shipments": 664,
+      "sum_teu": 1564.0,
+      "sum_weight": 8399637.743756294,
+      "sum_containers": 902,
+      "rn": 92
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9505 - Festive, carnival or other entertainment articles, including conjuring tricks and novelty jokes",
+      "count_shipments": 793,
+      "sum_teu": 1562.0,
+      "sum_weight": 8852393.714481408,
+      "sum_containers": 923,
+      "rn": 93
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 6505 - Hats and other headgear; knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",
+      "count_shipments": 770,
+      "sum_teu": 1507.0,
+      "sum_weight": 5588603.546479666,
+      "sum_containers": 873,
+      "rn": 94
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 4015 - Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber",
+      "count_shipments": 867,
+      "sum_teu": 1506.0,
+      "sum_weight": 14896921.484201359,
+      "sum_containers": 909,
+      "rn": 95
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 4418 - Builders' joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes",
+      "count_shipments": 681,
+      "sum_teu": 1490.0,
+      "sum_weight": 15808063.132557992,
+      "sum_containers": 857,
+      "rn": 96
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 5702 - Carpets and other textile floor coverings; woven, (not tufted or flocked), whether or not made up, including kelem, schumacks, karamanie and similar hand-woven rugs",
+      "count_shipments": 558,
+      "sum_teu": 1477.0,
+      "sum_weight": 10612363.888597582,
+      "sum_containers": 810,
+      "rn": 97
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8413 - Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",
+      "count_shipments": 784,
+      "sum_teu": 1458.0,
+      "sum_weight": 8951357.531982835,
+      "sum_containers": 940,
+      "rn": 98
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2202 - Waters, including mineral and aerated waters, containing added sugar or sweetening matter, flavoured; other non-alcoholic beverages, not including fruit or vegetable juices of heading no. 2009",
+      "count_shipments": 570,
+      "sum_teu": 1445.0,
+      "sum_weight": 19315602.50094801,
+      "sum_containers": 914,
+      "rn": 99
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 7307 - Tube or pipe fittings (e.g. couplings, elbows, sleeves), of iron or steel",
+      "count_shipments": 821,
+      "sum_teu": 1429.0,
+      "sum_weight": 18005865.332964413,
+      "sum_containers": 1113,
+      "rn": 100
+    },
+    {
+      "category": "Country of Origin",
+      "name": "China",
+      "count_shipments": 113090,
+      "sum_teu": 249086.0,
+      "sum_weight": 1774593318.3110378,
+      "sum_containers": 148903,
+      "rn": 1
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Vietnam ",
+      "count_shipments": 26219,
+      "sum_teu": 71488.0,
+      "sum_weight": 413299669.1846032,
+      "sum_containers": 40470,
+      "rn": 2
+    },
+    {
+      "category": "Country of Origin",
+      "name": "South Korea ",
+      "count_shipments": 22059,
+      "sum_teu": 60083.0,
+      "sum_weight": 624025868.8250765,
+      "sum_containers": 38406,
+      "rn": 3
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Singapore ",
+      "count_shipments": 8873,
+      "sum_teu": 24115.0,
+      "sum_weight": 179403721.25257868,
+      "sum_containers": 14140,
+      "rn": 4
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Italy ",
+      "count_shipments": 9961,
+      "sum_teu": 23855.0,
+      "sum_weight": 187008363.19586143,
+      "sum_containers": 14571,
+      "rn": 5
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Mexico ",
+      "count_shipments": 4460,
+      "sum_teu": 20151.0,
+      "sum_weight": 278384350.39669424,
+      "sum_containers": 12978,
+      "rn": 6
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Taiwan",
+      "count_shipments": 7967,
+      "sum_teu": 17916.0,
+      "sum_weight": 132328773.72231224,
+      "sum_containers": 11362,
+      "rn": 7
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Germany ",
+      "count_shipments": 7785,
+      "sum_teu": 17735.0,
+      "sum_weight": 184279139.015277,
+      "sum_containers": 10944,
+      "rn": 8
+    },
+    {
+      "category": "Country of Origin",
+      "name": "India ",
+      "count_shipments": 9104,
+      "sum_teu": 17010.0,
+      "sum_weight": 159398902.24562055,
+      "sum_containers": 11578,
+      "rn": 9
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Thailand ",
+      "count_shipments": 5537,
+      "sum_teu": 16081.0,
+      "sum_weight": 135754904.1533144,
+      "sum_containers": 10218,
+      "rn": 10
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Spain ",
+      "count_shipments": 4452,
+      "sum_teu": 13858.0,
+      "sum_weight": 129097553.84633179,
+      "sum_containers": 8696,
+      "rn": 11
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Canada ",
+      "count_shipments": 3269,
+      "sum_teu": 13836.0,
+      "sum_weight": 535988241.88122445,
+      "sum_containers": 7779,
+      "rn": 12
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Colombia ",
+      "count_shipments": 3757,
+      "sum_teu": 12519.0,
+      "sum_weight": 173065696.47960192,
+      "sum_containers": 7395,
+      "rn": 13
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Panama ",
+      "count_shipments": 4119,
+      "sum_teu": 11734.0,
+      "sum_weight": 284639555.73968303,
+      "sum_containers": 7052,
+      "rn": 14
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Malaysia ",
+      "count_shipments": 4426,
+      "sum_teu": 10977.0,
+      "sum_weight": 89222756.28662536,
+      "sum_containers": 6693,
+      "rn": 15
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Japan ",
+      "count_shipments": 4451,
+      "sum_teu": 9661.0,
+      "sum_weight": 159310696.45981622,
+      "sum_containers": 7066,
+      "rn": 16
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Belgium ",
+      "count_shipments": 4178,
+      "sum_teu": 9353.0,
+      "sum_weight": 114534275.28021155,
+      "sum_containers": 6057,
+      "rn": 17
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Guatemala ",
+      "count_shipments": 2229,
+      "sum_teu": 9173.0,
+      "sum_weight": 90939056.5092669,
+      "sum_containers": 5116,
+      "rn": 18
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Turkey ",
+      "count_shipments": 2887,
+      "sum_teu": 6847.0,
+      "sum_weight": 291402516.149858,
+      "sum_containers": 4275,
+      "rn": 19
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Netherlands ",
+      "count_shipments": 2432,
+      "sum_teu": 6675.0,
+      "sum_weight": 74843462.21857736,
+      "sum_containers": 4134,
+      "rn": 20
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Sri Lanka ",
+      "count_shipments": 3297,
+      "sum_teu": 6411.0,
+      "sum_weight": 48342451.78236612,
+      "sum_containers": 4119,
+      "rn": 21
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Brazil ",
+      "count_shipments": 2429,
+      "sum_teu": 6048.0,
+      "sum_weight": 524340345.8812766,
+      "sum_containers": 3984,
+      "rn": 22
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Morocco ",
+      "count_shipments": 2263,
+      "sum_teu": 5734.0,
+      "sum_weight": 145357570.08250856,
+      "sum_containers": 3656,
+      "rn": 23
+    },
+    {
+      "category": "Country of Origin",
+      "name": "United Kingdom ",
+      "count_shipments": 2333,
+      "sum_teu": 5323.0,
+      "sum_weight": 36860286.70384919,
+      "sum_containers": 3434,
+      "rn": 24
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Dominican Republic ",
+      "count_shipments": 1665,
+      "sum_teu": 5178.0,
+      "sum_weight": 45708819.56775317,
+      "sum_containers": 3466,
+      "rn": 25
+    },
+    {
+      "category": "Country of Origin",
+      "name": "France ",
+      "count_shipments": 2337,
+      "sum_teu": 4678.0,
+      "sum_weight": 34926280.170786805,
+      "sum_containers": 2839,
+      "rn": 26
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Portugal ",
+      "count_shipments": 1788,
+      "sum_teu": 3989.0,
+      "sum_weight": 43425629.89698905,
+      "sum_containers": 2582,
+      "rn": 27
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Honduras ",
+      "count_shipments": 1170,
+      "sum_teu": 3696.0,
+      "sum_weight": 31215442.108209126,
+      "sum_containers": 1949,
+      "rn": 28
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Hong Kong ",
+      "count_shipments": 1746,
+      "sum_teu": 3371.0,
+      "sum_weight": 14670725.0,
+      "sum_containers": 2088,
+      "rn": 29
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Bahamas ",
+      "count_shipments": 1331,
+      "sum_teu": 3164.0,
+      "sum_weight": 167688025.94931552,
+      "sum_containers": 2289,
+      "rn": 30
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Oman ",
+      "count_shipments": 1023,
+      "sum_teu": 2443.0,
+      "sum_weight": 18989514.76527474,
+      "sum_containers": 1485,
+      "rn": 31
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Costa Rica ",
+      "count_shipments": 775,
+      "sum_teu": 2007.0,
+      "sum_weight": 20992651.3918317,
+      "sum_containers": 1109,
+      "rn": 32
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Jamaica ",
+      "count_shipments": 439,
+      "sum_teu": 1992.0,
+      "sum_weight": 31235979.781640373,
+      "sum_containers": 1197,
+      "rn": 33
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Peru ",
+      "count_shipments": 918,
+      "sum_teu": 1803.0,
+      "sum_weight": 27504595.08187352,
+      "sum_containers": 950,
+      "rn": 34
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Israel ",
+      "count_shipments": 484,
+      "sum_teu": 1749.0,
+      "sum_weight": 14848499.15954677,
+      "sum_containers": 1121,
+      "rn": 35
+    },
+    {
+      "category": "Country of Origin",
+      "name": "New Zealand ",
+      "count_shipments": 508,
+      "sum_teu": 1398.0,
+      "sum_weight": 21700083.38212481,
+      "sum_containers": 959,
+      "rn": 36
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Greece ",
+      "count_shipments": 626,
+      "sum_teu": 1194.0,
+      "sum_weight": 11490078.151082726,
+      "sum_containers": 791,
+      "rn": 37
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Argentina ",
+      "count_shipments": 423,
+      "sum_teu": 1164.0,
+      "sum_weight": 19325927.99478368,
+      "sum_containers": 726,
+      "rn": 38
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Australia ",
+      "count_shipments": 623,
+      "sum_teu": 1131.0,
+      "sum_weight": 29083010.74554345,
+      "sum_containers": 815,
+      "rn": 39
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Ecuador ",
+      "count_shipments": 477,
+      "sum_teu": 959.0,
+      "sum_weight": 17446257.37909481,
+      "sum_containers": 541,
+      "rn": 40
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Indonesia ",
+      "count_shipments": 321,
+      "sum_teu": 898.0,
+      "sum_weight": 44113541.0,
+      "sum_containers": 758,
+      "rn": 41
+    },
+    {
+      "category": "Country of Origin",
+      "name": "United Arab Emirates ",
+      "count_shipments": 253,
+      "sum_teu": 882.0,
+      "sum_weight": 9189471.46160336,
+      "sum_containers": 550,
+      "rn": 42
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Netherland Antilles ",
+      "count_shipments": 28,
+      "sum_teu": 792.0,
+      "sum_weight": 1747336.648656004,
+      "sum_containers": 445,
+      "rn": 43
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Virgin Islands ",
+      "count_shipments": 238,
+      "sum_teu": 669.0,
+      "sum_weight": 3780209.373715198,
+      "sum_containers": 558,
+      "rn": 44
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Barbados ",
+      "count_shipments": 27,
+      "sum_teu": 666.0,
+      "sum_weight": 1040167.7637415972,
+      "sum_containers": 364,
+      "rn": 45
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Ireland ",
+      "count_shipments": 272,
+      "sum_teu": 624.0,
+      "sum_weight": 5706432.219738549,
+      "sum_containers": 409,
+      "rn": 46
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Turks and Caicos Islands ",
+      "count_shipments": 19,
+      "sum_teu": 617.0,
+      "sum_weight": 615268.7354283278,
+      "sum_containers": 377,
+      "rn": 47
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Iceland ",
+      "count_shipments": 157,
+      "sum_teu": 590.0,
+      "sum_weight": 5022376.0,
+      "sum_containers": 307,
+      "rn": 48
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Egypt ",
+      "count_shipments": 189,
+      "sum_teu": 541.0,
+      "sum_weight": 4586939.807712894,
+      "sum_containers": 297,
+      "rn": 49
+    },
+    {
+      "category": "Country of Origin",
+      "name": "South Africa ",
+      "count_shipments": 197,
+      "sum_teu": 519.0,
+      "sum_weight": 50163716.0,
+      "sum_containers": 356,
+      "rn": 50
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Trinidad ",
+      "count_shipments": 117,
+      "sum_teu": 515.0,
+      "sum_weight": 16644227.448902758,
+      "sum_containers": 396,
+      "rn": 51
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Aruba ",
+      "count_shipments": 6,
+      "sum_teu": 454.0,
+      "sum_weight": 946034.2371928042,
+      "sum_containers": 245,
+      "rn": 52
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Cayman Islands ",
+      "count_shipments": 30,
+      "sum_teu": 447.0,
+      "sum_weight": 1436337.977039127,
+      "sum_containers": 279,
+      "rn": 53
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Bermuda ",
+      "count_shipments": 57,
+      "sum_teu": 425.0,
+      "sum_weight": 945741.0,
+      "sum_containers": 397,
+      "rn": 54
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Ivory Coast ",
+      "count_shipments": 87,
+      "sum_teu": 359.0,
+      "sum_weight": 6125456.0,
+      "sum_containers": 284,
+      "rn": 55
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Poland ",
+      "count_shipments": 152,
+      "sum_teu": 328.0,
+      "sum_weight": 965278.0,
+      "sum_containers": 169,
+      "rn": 56
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Cuba ",
+      "count_shipments": 4,
+      "sum_teu": 287.0,
+      "sum_weight": 24651807.562046975,
+      "sum_containers": 218,
+      "rn": 57
+    },
+    {
+      "category": "Country of Origin",
+      "name": "St. Lucia ",
+      "count_shipments": 5,
+      "sum_teu": 227.0,
+      "sum_weight": 161350.8096451996,
+      "sum_containers": 135,
+      "rn": 58
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Antigua ",
+      "count_shipments": 35,
+      "sum_teu": 214.0,
+      "sum_weight": 5215.9895220038,
+      "sum_containers": 140,
+      "rn": 59
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Haiti ",
+      "count_shipments": 43,
+      "sum_teu": 187.0,
+      "sum_weight": 897022.164726801,
+      "sum_containers": 105,
+      "rn": 60
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Uruguay ",
+      "count_shipments": 47,
+      "sum_teu": 184.0,
+      "sum_weight": 2225987.966334334,
+      "sum_containers": 101,
+      "rn": 61
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Philippines ",
+      "count_shipments": 92,
+      "sum_teu": 180.0,
+      "sum_weight": 1772511.0,
+      "sum_containers": 125,
+      "rn": 62
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Pakistan ",
+      "count_shipments": 98,
+      "sum_teu": 172.0,
+      "sum_weight": 1088261.0,
+      "sum_containers": 107,
+      "rn": 63
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Belize ",
+      "count_shipments": 15,
+      "sum_teu": 171.0,
+      "sum_weight": 506393.8368879898,
+      "sum_containers": 101,
+      "rn": 64
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Lithuania ",
+      "count_shipments": 77,
+      "sum_teu": 152.0,
+      "sum_weight": 761712.0,
+      "sum_containers": 77,
+      "rn": 65
+    },
+    {
+      "category": "Country of Origin",
+      "name": "British Virgin Islands ",
+      "count_shipments": 24,
+      "sum_teu": 147.0,
+      "sum_weight": 255332.0,
+      "sum_containers": 130,
+      "rn": 66
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Finland ",
+      "count_shipments": 64,
+      "sum_teu": 134.0,
+      "sum_weight": 389976.0,
+      "sum_containers": 81,
+      "rn": 67
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Guam ",
+      "count_shipments": 55,
+      "sum_teu": 117.0,
+      "sum_weight": 149074.6704647513,
+      "sum_containers": 60,
+      "rn": 68
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Bangladesh ",
+      "count_shipments": 52,
+      "sum_teu": 100.0,
+      "sum_weight": 699968.0,
+      "sum_containers": 81,
+      "rn": 69
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Cambodia ",
+      "count_shipments": 48,
+      "sum_teu": 92.0,
+      "sum_weight": 772996.0,
+      "sum_containers": 77,
+      "rn": 70
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Chile ",
+      "count_shipments": 48,
+      "sum_teu": 85.0,
+      "sum_weight": 120667480.0,
+      "sum_containers": 71,
+      "rn": 71
+    },
+    {
+      "category": "Country of Origin",
+      "name": "St. Vincent & the Grenadines ",
+      "count_shipments": 1,
+      "sum_teu": 82.0,
+      "sum_weight": 1.0,
+      "sum_containers": 43,
+      "rn": 72
+    },
+    {
+      "category": "Country of Origin",
+      "name": "St. Kitts & Nevis ",
+      "count_shipments": 14,
+      "sum_teu": 80.0,
+      "sum_weight": 49030.9645471782,
+      "sum_containers": 47,
+      "rn": 73
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Sweden ",
+      "count_shipments": 94,
+      "sum_teu": 80.0,
+      "sum_weight": 28668020.0,
+      "sum_containers": 104,
+      "rn": 74
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Nigeria ",
+      "count_shipments": 9,
+      "sum_teu": 68.0,
+      "sum_weight": 68472433.41687003,
+      "sum_containers": 70,
+      "rn": 75
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Nicaragua ",
+      "count_shipments": 33,
+      "sum_teu": 65.0,
+      "sum_weight": 519372.337318903,
+      "sum_containers": 33,
+      "rn": 76
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Grenada ",
+      "count_shipments": 3,
+      "sum_teu": 57.0,
+      "sum_weight": 154820.0469650099,
+      "sum_containers": 35,
+      "rn": 77
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Denmark ",
+      "count_shipments": 21,
+      "sum_teu": 51.0,
+      "sum_weight": 5544431.0,
+      "sum_containers": 117,
+      "rn": 78
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Western Samoa ",
+      "count_shipments": 18,
+      "sum_teu": 48.0,
+      "sum_weight": 1668808.0,
+      "sum_containers": 219,
+      "rn": 79
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Dominca Island ",
+      "count_shipments": 2,
+      "sum_teu": 41.0,
+      "sum_weight": 80534.7727953117,
+      "sum_containers": 25,
+      "rn": 80
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Jordan ",
+      "count_shipments": 26,
+      "sum_teu": 40.0,
+      "sum_weight": 369906.0,
+      "sum_containers": 37,
+      "rn": 81
+    },
+    {
+      "category": "Country of Origin",
+      "name": "French Polynesia ",
+      "count_shipments": 13,
+      "sum_teu": 37.0,
+      "sum_weight": 294183.0,
+      "sum_containers": 37,
+      "rn": 82
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Norway ",
+      "count_shipments": 32,
+      "sum_teu": 37.0,
+      "sum_weight": 20303090.0,
+      "sum_containers": 39,
+      "rn": 83
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Estonia ",
+      "count_shipments": 25,
+      "sum_teu": 34.0,
+      "sum_weight": 157682.0,
+      "sum_containers": 25,
+      "rn": 84
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Madagascar (Malagasy) ",
+      "count_shipments": 10,
+      "sum_teu": 23.0,
+      "sum_weight": 149205.0,
+      "sum_containers": 12,
+      "rn": 85
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Croatia ",
+      "count_shipments": 12,
+      "sum_teu": 22.0,
+      "sum_weight": 307207.0,
+      "sum_containers": 12,
+      "rn": 86
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Paraguay ",
+      "count_shipments": 4,
+      "sum_teu": 22.0,
+      "sum_weight": 259055.0,
+      "sum_containers": 11,
+      "rn": 87
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Burma (Myanmar) ",
+      "count_shipments": 12,
+      "sum_teu": 22.0,
+      "sum_weight": 97133.0,
+      "sum_containers": 14,
+      "rn": 88
+    },
+    {
+      "category": "Country of Origin",
+      "name": "American Samoa",
+      "count_shipments": 9,
+      "sum_teu": 20.0,
+      "sum_weight": 201301.0,
+      "sum_containers": 30,
+      "rn": 89
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Latvia ",
+      "count_shipments": 8,
+      "sum_teu": 14.0,
+      "sum_weight": 46728.0,
+      "sum_containers": 8,
+      "rn": 90
+    },
+    {
+      "category": "Country of Origin",
+      "name": "United States Off-Shore Tanker Transshipment Points ",
+      "count_shipments": 286,
+      "sum_teu": 12.0,
+      "sum_weight": 214411904.32730356,
+      "sum_containers": 296,
+      "rn": 91
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Saudi Arabia ",
+      "count_shipments": 35,
+      "sum_teu": 10.0,
+      "sum_weight": 1547497.0,
+      "sum_containers": 37,
+      "rn": 92
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Bulgaria ",
+      "count_shipments": 7,
+      "sum_teu": 9.0,
+      "sum_weight": 60158.0,
+      "sum_containers": 7,
+      "rn": 93
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Romania ",
+      "count_shipments": 5,
+      "sum_teu": 8.0,
+      "sum_weight": 55164.0,
+      "sum_containers": 5,
+      "rn": 94
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Unspecified",
+      "count_shipments": 4,
+      "sum_teu": 8.0,
+      "sum_weight": 71724.0,
+      "sum_containers": 4,
+      "rn": 95
+    },
+    {
+      "category": "Country of Origin",
+      "name": "New Caledonia ",
+      "count_shipments": 5,
+      "sum_teu": 7.0,
+      "sum_weight": 29212.0,
+      "sum_containers": 5,
+      "rn": 96
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Venezuela ",
+      "count_shipments": 5,
+      "sum_teu": 6.0,
+      "sum_weight": 111356150.0,
+      "sum_containers": 6,
+      "rn": 97
+    },
+    {
+      "category": "Country of Origin",
+      "name": "El Salvador ",
+      "count_shipments": 3,
+      "sum_teu": 6.0,
+      "sum_weight": 43973.0,
+      "sum_containers": 3,
+      "rn": 98
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Bahrain ",
+      "count_shipments": 8,
+      "sum_teu": 6.0,
+      "sum_weight": 133872.0,
+      "sum_containers": 8,
+      "rn": 99
+    },
+    {
+      "category": "Country of Origin",
+      "name": "Djibouti ",
+      "count_shipments": 2,
+      "sum_teu": 4.0,
+      "sum_weight": 23023.0,
+      "sum_containers": 2,
+      "rn": 100
+    },
+    {
+      "category": "Exporter",
+      "name": "Tanko INTERNATIONAL LTD",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 32780.2523790948,
+      "sum_containers": 2,
+      "rn": 1
+    },
+    {
+      "category": "Exporter",
+      "name": "Guangdong Shenling Environmental",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 18781.0,
+      "sum_containers": 1,
+      "rn": 2
+    },
+    {
+      "category": "Exporter",
+      "name": "Yangzhou Tonglee Reefer Container",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 11000.0,
+      "sum_containers": 1,
+      "rn": 3
+    },
+    {
+      "category": "Exporter",
+      "name": "Performance Spialty Products",
+      "count_shipments": 8,
+      "sum_teu": null,
+      "sum_weight": 200983.8430205659,
+      "sum_containers": 8,
+      "rn": 4
+    },
+    {
+      "category": "Exporter",
+      "name": "Wistema Gmbh",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 20720.12410302,
+      "sum_containers": 1,
+      "rn": 5
+    },
+    {
+      "category": "Exporter",
+      "name": "Shaanxi qifeng ikiwi import",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 14431.0,
+      "sum_containers": 1,
+      "rn": 6
+    },
+    {
+      "category": "Exporter",
+      "name": "Xinyaqiang Silicon Chemistry CO",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 18000.0,
+      "sum_containers": 1,
+      "rn": 7
+    },
+    {
+      "category": "Exporter",
+      "name": "Huangshan silike no",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 24000.0,
+      "sum_containers": 1,
+      "rn": 8
+    },
+    {
+      "category": "Exporter",
+      "name": "Crystal Clear Shutters",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 85000.0,
+      "sum_containers": 0,
+      "rn": 9
+    },
+    {
+      "category": "Exporter",
+      "name": "Ms Logistics",
+      "count_shipments": 3,
+      "sum_teu": null,
+      "sum_weight": 58499.8775299145,
+      "sum_containers": 3,
+      "rn": 10
+    },
+    {
+      "category": "Exporter",
+      "name": "Indosol Chemie",
+      "count_shipments": 3,
+      "sum_teu": null,
+      "sum_weight": 66000.4898803422,
+      "sum_containers": 3,
+      "rn": 11
+    },
+    {
+      "category": "Exporter",
+      "name": "Seven Seas Shipping Investments LTD",
+      "count_shipments": 2,
+      "sum_teu": null,
+      "sum_weight": 41980.0237682685,
+      "sum_containers": 2,
+      "rn": 12
+    },
+    {
+      "category": "Exporter",
+      "name": "Bazan oil refineries ltd",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 39419.9453874137,
+      "sum_containers": 2,
+      "rn": 13
+    },
+    {
+      "category": "Exporter",
+      "name": "Bulkiso tainer logistics india pvt",
+      "count_shipments": 2,
+      "sum_teu": null,
+      "sum_weight": 43309.9581787338,
+      "sum_containers": 2,
+      "rn": 14
+    },
+    {
+      "category": "Exporter",
+      "name": "Kemipex Fze",
+      "count_shipments": 2,
+      "sum_teu": null,
+      "sum_weight": 57860.3115276102,
+      "sum_containers": 3,
+      "rn": 15
+    },
+    {
+      "category": "Exporter",
+      "name": "Dongying Hi Tech Spring Chemicalind",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 80000.1814371638,
+      "sum_containers": 4,
+      "rn": 16
+    },
+    {
+      "category": "Exporter",
+      "name": "Ci caribbean oils & fats",
+      "count_shipments": 2,
+      "sum_teu": null,
+      "sum_weight": 124720.3599713329,
+      "sum_containers": 6,
+      "rn": 17
+    },
+    {
+      "category": "Exporter",
+      "name": "Markel Comercial Exportadora De INTERNATIONAL",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 58899.9464760367,
+      "sum_containers": 3,
+      "rn": 18
+    },
+    {
+      "category": "Exporter",
+      "name": "Industrial Solvents And Chemicals P",
+      "count_shipments": 3,
+      "sum_teu": null,
+      "sum_weight": 91999.9818562836,
+      "sum_containers": 4,
+      "rn": 19
+    },
+    {
+      "category": "Exporter",
+      "name": "24 Ianuarie SA",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 6553.5103555261,
+      "sum_containers": 1,
+      "rn": 20
+    },
+    {
+      "category": "Exporter",
+      "name": "Guang an liva chemical co ltd",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 14139.8517658372,
+      "sum_containers": 3,
+      "rn": 21
+    },
+    {
+      "category": "Exporter",
+      "name": "Wcl Shipping LTD",
+      "count_shipments": 11,
+      "sum_teu": null,
+      "sum_weight": 234220.8634594624,
+      "sum_containers": 11,
+      "rn": 22
+    },
+    {
+      "category": "Exporter",
+      "name": "Gac Shipping INTERNATIONAL",
+      "count_shipments": 2,
+      "sum_teu": null,
+      "sum_weight": 39999.6371256725,
+      "sum_containers": 2,
+      "rn": 23
+    },
+    {
+      "category": "Exporter",
+      "name": "Ms Navin Fluorine INTERNATIONAL Lt",
+      "count_shipments": 24,
+      "sum_teu": null,
+      "sum_weight": 456562.5235187924,
+      "sum_containers": 24,
+      "rn": 24
+    },
+    {
+      "category": "Exporter",
+      "name": "Unspecified",
+      "count_shipments": 71070,
+      "sum_teu": 186540.0,
+      "sum_weight": 1909995962.9884605,
+      "sum_containers": 109904,
+      "rn": 25
+    },
+    {
+      "category": "Exporter",
+      "name": "Msc Mediterranean Shipping CO",
+      "count_shipments": 28,
+      "sum_teu": 9088.0,
+      "sum_weight": 18440500.0,
+      "sum_containers": 5131,
+      "rn": 26
+    },
+    {
+      "category": "Exporter",
+      "name": "Maersk Lines",
+      "count_shipments": 35,
+      "sum_teu": 6332.0,
+      "sum_weight": 21.3188667435,
+      "sum_containers": 3452,
+      "rn": 27
+    },
+    {
+      "category": "Exporter",
+      "name": "Orient Express Container CO Limit",
+      "count_shipments": 1648,
+      "sum_teu": 4301.0,
+      "sum_weight": 39053996.642296635,
+      "sum_containers": 2517,
+      "rn": 28
+    },
+    {
+      "category": "Exporter",
+      "name": "Ocean Network Express INC",
+      "count_shipments": 8,
+      "sum_teu": 3342.0,
+      "sum_weight": 1704.0,
+      "sum_containers": 1704,
+      "rn": 29
+    },
+    {
+      "category": "Exporter",
+      "name": "Toll Global Forwarding Pvt",
+      "count_shipments": 1073,
+      "sum_teu": 3123.0,
+      "sum_weight": 23027373.75092306,
+      "sum_containers": 1745,
+      "rn": 30
+    },
+    {
+      "category": "Exporter",
+      "name": "Lx Pantos CO LTD",
+      "count_shipments": 785,
+      "sum_teu": 2903.0,
+      "sum_weight": 15572862.633288277,
+      "sum_containers": 1615,
+      "rn": 31
+    },
+    {
+      "category": "Exporter",
+      "name": "Honourlane Shipping LTD",
+      "count_shipments": 1217,
+      "sum_teu": 2864.0,
+      "sum_weight": 19579070.88218378,
+      "sum_containers": 1573,
+      "rn": 32
+    },
+    {
+      "category": "Exporter",
+      "name": "Ch Robinson Freightservices",
+      "count_shipments": 1225,
+      "sum_teu": 2813.0,
+      "sum_weight": 23022630.255499814,
+      "sum_containers": 1875,
+      "rn": 33
+    },
+    {
+      "category": "Exporter",
+      "name": "Hapag Lloyd Mexico SA",
+      "count_shipments": 20,
+      "sum_teu": 2635.0,
+      "sum_weight": 5372900.0,
+      "sum_containers": 1535,
+      "rn": 34
+    },
+    {
+      "category": "Exporter",
+      "name": "Maxworld Logistics INC",
+      "count_shipments": 1105,
+      "sum_teu": 2531.0,
+      "sum_weight": 27391742.101223793,
+      "sum_containers": 1607,
+      "rn": 35
+    },
+    {
+      "category": "Exporter",
+      "name": "Safround Logistics CO LTD",
+      "count_shipments": 1043,
+      "sum_teu": 1766.0,
+      "sum_weight": 17957037.722528145,
+      "sum_containers": 1247,
+      "rn": 36
+    },
+    {
+      "category": "Exporter",
+      "name": "Topocean Consolidation Serv CO LTD",
+      "count_shipments": 618,
+      "sum_teu": 1608.0,
+      "sum_weight": 11857045.465250248,
+      "sum_containers": 867,
+      "rn": 37
+    },
+    {
+      "category": "Exporter",
+      "name": "Hangzhou Yirui Supply Chain Managem",
+      "count_shipments": 1338,
+      "sum_teu": 1338.0,
+      "sum_weight": 4063.0,
+      "sum_containers": 1338,
+      "rn": 38
+    },
+    {
+      "category": "Exporter",
+      "name": "Dsv Air & Seas Sas",
+      "count_shipments": 468,
+      "sum_teu": 1319.0,
+      "sum_weight": 8676751.47673522,
+      "sum_containers": 722,
+      "rn": 39
+    },
+    {
+      "category": "Exporter",
+      "name": "Bob's Discount Furniturer",
+      "count_shipments": 158,
+      "sum_teu": 1228.0,
+      "sum_weight": 4168639.6650125645,
+      "sum_containers": 614,
+      "rn": 40
+    },
+    {
+      "category": "Exporter",
+      "name": "Zim Mexico INTERNATIONAL Shipping",
+      "count_shipments": 5,
+      "sum_teu": 1212.0,
+      "sum_weight": 2599561.375656576,
+      "sum_containers": 658,
+      "rn": 41
+    },
+    {
+      "category": "Exporter",
+      "name": "Orientstar Transport INTERNATIONAL",
+      "count_shipments": 593,
+      "sum_teu": 1194.0,
+      "sum_weight": 9192318.69212835,
+      "sum_containers": 692,
+      "rn": 42
+    },
+    {
+      "category": "Exporter",
+      "name": "Kerry Apex CO LTD",
+      "count_shipments": 376,
+      "sum_teu": 1164.0,
+      "sum_weight": 12276899.557529189,
+      "sum_containers": 720,
+      "rn": 43
+    },
+    {
+      "category": "Exporter",
+      "name": "K Apex Logistics CO LTD",
+      "count_shipments": 384,
+      "sum_teu": 1000.0,
+      "sum_weight": 7630108.172601174,
+      "sum_containers": 548,
+      "rn": 44
+    },
+    {
+      "category": "Exporter",
+      "name": "Hyundai Mobis",
+      "count_shipments": 61,
+      "sum_teu": 986.0,
+      "sum_weight": 2418471.5576199074,
+      "sum_containers": 493,
+      "rn": 45
+    },
+    {
+      "category": "Exporter",
+      "name": "Chiquita Guatemala Sociedad",
+      "count_shipments": 51,
+      "sum_teu": 980.0,
+      "sum_weight": 9296219.0,
+      "sum_containers": 490,
+      "rn": 46
+    },
+    {
+      "category": "Exporter",
+      "name": "Zhejiang Hengjian Home Furnishing",
+      "count_shipments": 289,
+      "sum_teu": 976.0,
+      "sum_weight": 6887395.709591676,
+      "sum_containers": 490,
+      "rn": 47
+    },
+    {
+      "category": "Exporter",
+      "name": "Casia Global Logistics CO LTD",
+      "count_shipments": 317,
+      "sum_teu": 962.0,
+      "sum_weight": 8629939.087407354,
+      "sum_containers": 524,
+      "rn": 48
+    },
+    {
+      "category": "Exporter",
+      "name": "City Ocean Logis Tics CO LTD",
+      "count_shipments": 508,
+      "sum_teu": 962.0,
+      "sum_weight": 11670079.79026771,
+      "sum_containers": 745,
+      "rn": 49
+    },
+    {
+      "category": "Exporter",
+      "name": "Zim Logistics CO LTD",
+      "count_shipments": 478,
+      "sum_teu": 955.0,
+      "sum_weight": 10411256.361640554,
+      "sum_containers": 547,
+      "rn": 50
+    },
+    {
+      "category": "Exporter",
+      "name": "Agencias Navieras Rannik",
+      "count_shipments": 3,
+      "sum_teu": 950.0,
+      "sum_weight": 1776998.7571554282,
+      "sum_containers": 475,
+      "rn": 51
+    },
+    {
+      "category": "Exporter",
+      "name": "Rs Logistics Limitid",
+      "count_shipments": 384,
+      "sum_teu": 930.0,
+      "sum_weight": 6605275.496094565,
+      "sum_containers": 527,
+      "rn": 52
+    },
+    {
+      "category": "Exporter",
+      "name": "Pt Century Distribution Systems Ind",
+      "count_shipments": 263,
+      "sum_teu": 884.0,
+      "sum_weight": 4325214.375121336,
+      "sum_containers": 478,
+      "rn": 53
+    },
+    {
+      "category": "Exporter",
+      "name": "Beijing Kang Jie Kong INTERNATIONAL Cargos",
+      "count_shipments": 303,
+      "sum_teu": 877.0,
+      "sum_weight": 5692802.782983009,
+      "sum_containers": 471,
+      "rn": 54
+    },
+    {
+      "category": "Exporter",
+      "name": "Thi Group LTD",
+      "count_shipments": 420,
+      "sum_teu": 872.0,
+      "sum_weight": 6456057.554245176,
+      "sum_containers": 488,
+      "rn": 55
+    },
+    {
+      "category": "Exporter",
+      "name": "Lx Pantos Viet Nam CO LTD",
+      "count_shipments": 156,
+      "sum_teu": 831.0,
+      "sum_weight": 2344872.335667825,
+      "sum_containers": 417,
+      "rn": 56
+    },
+    {
+      "category": "Exporter",
+      "name": "Ningbo Port Southeast Logis Tics Gra",
+      "count_shipments": 342,
+      "sum_teu": 808.0,
+      "sum_weight": 6204957.807975978,
+      "sum_containers": 459,
+      "rn": 57
+    },
+    {
+      "category": "Exporter",
+      "name": "Dsv Air 7 Sea Sas",
+      "count_shipments": 249,
+      "sum_teu": 807.0,
+      "sum_weight": 6044003.9533978645,
+      "sum_containers": 446,
+      "rn": 58
+    },
+    {
+      "category": "Exporter",
+      "name": "Savino Del Bene SA Dur",
+      "count_shipments": 315,
+      "sum_teu": 802.0,
+      "sum_weight": 6059461.14074988,
+      "sum_containers": 435,
+      "rn": 59
+    },
+    {
+      "category": "Exporter",
+      "name": "Hapag Lloyd Colombia LTD",
+      "count_shipments": 5,
+      "sum_teu": 800.0,
+      "sum_weight": 2272895.0,
+      "sum_containers": 605,
+      "rn": 60
+    },
+    {
+      "category": "Exporter",
+      "name": "Toll Global Forwarding SA PTY LTD",
+      "count_shipments": 375,
+      "sum_teu": 778.0,
+      "sum_weight": 5609559.47043935,
+      "sum_containers": 446,
+      "rn": 61
+    },
+    {
+      "category": "Exporter",
+      "name": "Guangdong Sea Dreams Logistics",
+      "count_shipments": 381,
+      "sum_teu": 768.0,
+      "sum_weight": 5204765.395995682,
+      "sum_containers": 385,
+      "rn": 62
+    },
+    {
+      "category": "Exporter",
+      "name": "Casia Global Logistics Limi",
+      "count_shipments": 368,
+      "sum_teu": 748.0,
+      "sum_weight": 4907036.0,
+      "sum_containers": 388,
+      "rn": 63
+    },
+    {
+      "category": "Exporter",
+      "name": "Sinpex Connection Logistics Vietnam",
+      "count_shipments": 261,
+      "sum_teu": 744.0,
+      "sum_weight": 5949532.06117154,
+      "sum_containers": 428,
+      "rn": 64
+    },
+    {
+      "category": "Exporter",
+      "name": "Hellmann Worldwide Logistics PTY LTD",
+      "count_shipments": 237,
+      "sum_teu": 742.0,
+      "sum_weight": 4857426.673558255,
+      "sum_containers": 410,
+      "rn": 65
+    },
+    {
+      "category": "Exporter",
+      "name": "Flexport INTERNATIONAL",
+      "count_shipments": 309,
+      "sum_teu": 732.0,
+      "sum_weight": 4863559.931852201,
+      "sum_containers": 400,
+      "rn": 66
+    },
+    {
+      "category": "Exporter",
+      "name": "Maritima Del Caribe Dominicana SA",
+      "count_shipments": 2,
+      "sum_teu": 723.0,
+      "sum_weight": 1458930.0,
+      "sum_containers": 449,
+      "rn": 67
+    },
+    {
+      "category": "Exporter",
+      "name": "Pt mahesa logistik international",
+      "count_shipments": 374,
+      "sum_teu": 721.0,
+      "sum_weight": 1407470.9247398644,
+      "sum_containers": 378,
+      "rn": 68
+    },
+    {
+      "category": "Exporter",
+      "name": "Guangdong Manbin",
+      "count_shipments": 359,
+      "sum_teu": 716.0,
+      "sum_weight": 4648533.0,
+      "sum_containers": 360,
+      "rn": 69
+    },
+    {
+      "category": "Exporter",
+      "name": "Ningbo X H Supply Chain",
+      "count_shipments": 349,
+      "sum_teu": 707.0,
+      "sum_weight": 71439929.75346318,
+      "sum_containers": 372,
+      "rn": 70
+    },
+    {
+      "category": "Exporter",
+      "name": "Hong Kong Milley LTD",
+      "count_shipments": 356,
+      "sum_teu": 702.0,
+      "sum_weight": 4551966.0,
+      "sum_containers": 356,
+      "rn": 71
+    },
+    {
+      "category": "Exporter",
+      "name": "Apm terminals india pvt ltd",
+      "count_shipments": 340,
+      "sum_teu": 683.0,
+      "sum_weight": 2741669.9447614555,
+      "sum_containers": 356,
+      "rn": 72
+    },
+    {
+      "category": "Exporter",
+      "name": "Cohesion Freight Limite",
+      "count_shipments": 289,
+      "sum_teu": 680.0,
+      "sum_weight": 4680243.211038637,
+      "sum_containers": 384,
+      "rn": 73
+    },
+    {
+      "category": "Exporter",
+      "name": "Maersk Line",
+      "count_shipments": 1,
+      "sum_teu": 680.0,
+      "sum_weight": 0.4535929094,
+      "sum_containers": 340,
+      "rn": 74
+    },
+    {
+      "category": "Exporter",
+      "name": "Itl freight management",
+      "count_shipments": 260,
+      "sum_teu": 672.0,
+      "sum_weight": 3834375.069508577,
+      "sum_containers": 371,
+      "rn": 75
+    },
+    {
+      "category": "Exporter",
+      "name": "Hillebrand Gori France",
+      "count_shipments": 407,
+      "sum_teu": 664.0,
+      "sum_weight": 9015002.0,
+      "sum_containers": 464,
+      "rn": 76
+    },
+    {
+      "category": "Exporter",
+      "name": "Hmm CO LTD",
+      "count_shipments": 5,
+      "sum_teu": 660.0,
+      "sum_weight": 1269780.0,
+      "sum_containers": 358,
+      "rn": 77
+    },
+    {
+      "category": "Exporter",
+      "name": "Seamaster Global Forwarding LTD",
+      "count_shipments": 313,
+      "sum_teu": 656.0,
+      "sum_weight": 4463878.206294055,
+      "sum_containers": 371,
+      "rn": 78
+    },
+    {
+      "category": "Exporter",
+      "name": "Thai Samsung Electronics CO LTD",
+      "count_shipments": 186,
+      "sum_teu": 648.0,
+      "sum_weight": 2100120.06166142,
+      "sum_containers": 324,
+      "rn": 79
+    },
+    {
+      "category": "Exporter",
+      "name": "Yusen Logistics PTY LTD",
+      "count_shipments": 177,
+      "sum_teu": 636.0,
+      "sum_weight": 3086689.321624588,
+      "sum_containers": 354,
+      "rn": 80
+    },
+    {
+      "category": "Exporter",
+      "name": "Fourever INTERNATIONAL LTD",
+      "count_shipments": 278,
+      "sum_teu": 614.0,
+      "sum_weight": 4386776.299335033,
+      "sum_containers": 339,
+      "rn": 81
+    },
+    {
+      "category": "Exporter",
+      "name": "Ramses Logistics CO LTD",
+      "count_shipments": 170,
+      "sum_teu": 605.0,
+      "sum_weight": 5011290.119222361,
+      "sum_containers": 343,
+      "rn": 82
+    },
+    {
+      "category": "Exporter",
+      "name": "Sun Track Express CO LTD",
+      "count_shipments": 307,
+      "sum_teu": 602.0,
+      "sum_weight": 4416020.400840054,
+      "sum_containers": 315,
+      "rn": 83
+    },
+    {
+      "category": "Exporter",
+      "name": "Yang Ming Shipping LTD",
+      "count_shipments": 1,
+      "sum_teu": 600.0,
+      "sum_weight": 1140380.0,
+      "sum_containers": 300,
+      "rn": 84
+    },
+    {
+      "category": "Exporter",
+      "name": "Massy Logistics LTD",
+      "count_shipments": 2,
+      "sum_teu": 597.0,
+      "sum_weight": 2.0,
+      "sum_containers": 324,
+      "rn": 85
+    },
+    {
+      "category": "Exporter",
+      "name": "Cas INTERNATIONAL CO LTD",
+      "count_shipments": 306,
+      "sum_teu": 584.0,
+      "sum_weight": 4121587.741760485,
+      "sum_containers": 319,
+      "rn": 86
+    },
+    {
+      "category": "Exporter",
+      "name": "Sentury Tire CO LTD",
+      "count_shipments": 122,
+      "sum_teu": 580.0,
+      "sum_weight": 3289639.962714663,
+      "sum_containers": 297,
+      "rn": 87
+    },
+    {
+      "category": "Exporter",
+      "name": "Toyota Motor Europe",
+      "count_shipments": 61,
+      "sum_teu": 576.0,
+      "sum_weight": 17323341.0,
+      "sum_containers": 333,
+      "rn": 88
+    },
+    {
+      "category": "Exporter",
+      "name": "Crowley Liner Services INC",
+      "count_shipments": 11,
+      "sum_teu": 561.0,
+      "sum_weight": 1796956.0,
+      "sum_containers": 286,
+      "rn": 89
+    },
+    {
+      "category": "Exporter",
+      "name": "Chinatrans INTERNATIONAL LTD",
+      "count_shipments": 312,
+      "sum_teu": 558.0,
+      "sum_weight": 4487888.760648093,
+      "sum_containers": 339,
+      "rn": 90
+    },
+    {
+      "category": "Exporter",
+      "name": "Apl Logistics Lanka LTD",
+      "count_shipments": 187,
+      "sum_teu": 549.0,
+      "sum_weight": 1883573.3613502553,
+      "sum_containers": 283,
+      "rn": 91
+    },
+    {
+      "category": "Exporter",
+      "name": "Container Terminals LTD",
+      "count_shipments": 2,
+      "sum_teu": 548.0,
+      "sum_weight": 1213761.0,
+      "sum_containers": 295,
+      "rn": 92
+    },
+    {
+      "category": "Exporter",
+      "name": "Barsan Global Lojistik Asz",
+      "count_shipments": 302,
+      "sum_teu": 536.0,
+      "sum_weight": 8043483.619399262,
+      "sum_containers": 386,
+      "rn": 93
+    },
+    {
+      "category": "Exporter",
+      "name": "Mexichem Resinas Vinilicas SA",
+      "count_shipments": 24,
+      "sum_teu": 535.0,
+      "sum_weight": 7060342.082717203,
+      "sum_containers": 268,
+      "rn": 94
+    },
+    {
+      "category": "Exporter",
+      "name": "Global Freight Services USA LLC",
+      "count_shipments": 363,
+      "sum_teu": 534.0,
+      "sum_weight": 6133670.219493609,
+      "sum_containers": 423,
+      "rn": 95
+    },
+    {
+      "category": "Exporter",
+      "name": "Ocean Bridges Logistics CO LTD",
+      "count_shipments": 271,
+      "sum_teu": 534.0,
+      "sum_weight": 3908636.872948626,
+      "sum_containers": 287,
+      "rn": 96
+    },
+    {
+      "category": "Exporter",
+      "name": "Heineken Netherlands Supply Bv",
+      "count_shipments": 39,
+      "sum_teu": 530.0,
+      "sum_weight": 6870500.0,
+      "sum_containers": 265,
+      "rn": 97
+    },
+    {
+      "category": "Exporter",
+      "name": "Dsv Air And Sea CO LTD",
+      "count_shipments": 193,
+      "sum_teu": 521.0,
+      "sum_weight": 3088352.7566474043,
+      "sum_containers": 295,
+      "rn": 98
+    },
+    {
+      "category": "Exporter",
+      "name": "Glovis Ameriac. INC",
+      "count_shipments": 103,
+      "sum_teu": 519.0,
+      "sum_weight": 3857217.1225970914,
+      "sum_containers": 285,
+      "rn": 99
+    },
+    {
+      "category": "Exporter",
+      "name": "Maersk Logistics & Service Malaysia",
+      "count_shipments": 236,
+      "sum_teu": 518.0,
+      "sum_weight": 2548665.306628807,
+      "sum_containers": 263,
+      "rn": 100
+    },
+    {
+      "category": "Importer",
+      "name": "Asvequi SA",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 20680.2079269897,
+      "sum_containers": 1,
+      "rn": 1
+    },
+    {
+      "category": "Importer",
+      "name": "Soulbrain Mi",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 80000.1814371638,
+      "sum_containers": 4,
+      "rn": 2
+    },
+    {
+      "category": "Importer",
+      "name": "Quimicos Holanda Costa Rica SA",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 21299.8158412788,
+      "sum_containers": 1,
+      "rn": 3
+    },
+    {
+      "category": "Importer",
+      "name": "M sips ltd",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 220000.0,
+      "sum_containers": 10,
+      "rn": 4
+    },
+    {
+      "category": "Importer",
+      "name": "Tampa Juice Service INC",
+      "count_shipments": 2,
+      "sum_teu": null,
+      "sum_weight": 54039.6984514338,
+      "sum_containers": 2,
+      "rn": 5
+    },
+    {
+      "category": "Importer",
+      "name": "Crossover logistics usa inc",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 19999.8185628362,
+      "sum_containers": 1,
+      "rn": 6
+    },
+    {
+      "category": "Importer",
+      "name": "Levecke Corp",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 58899.9464760367,
+      "sum_containers": 3,
+      "rn": 7
+    },
+    {
+      "category": "Importer",
+      "name": "Global Amines America Inc",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 17720.0606000127,
+      "sum_containers": 1,
+      "rn": 8
+    },
+    {
+      "category": "Importer",
+      "name": "Ranew's Companies",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 11000.0,
+      "sum_containers": 1,
+      "rn": 9
+    },
+    {
+      "category": "Importer",
+      "name": "Flexsys America LLC",
+      "count_shipments": 3,
+      "sum_teu": null,
+      "sum_weight": 293300.4327276356,
+      "sum_containers": 15,
+      "rn": 10
+    },
+    {
+      "category": "Importer",
+      "name": "Spruance Plant Mfg",
+      "count_shipments": 8,
+      "sum_teu": null,
+      "sum_weight": 200983.8430205659,
+      "sum_containers": 8,
+      "rn": 11
+    },
+    {
+      "category": "Importer",
+      "name": "Durman Esquival SA",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 20720.12410302,
+      "sum_containers": 1,
+      "rn": 12
+    },
+    {
+      "category": "Importer",
+      "name": "Quimikao sa",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 50000.0,
+      "sum_containers": 2,
+      "rn": 13
+    },
+    {
+      "category": "Importer",
+      "name": "Daubert Chemical",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 19180.176175486,
+      "sum_containers": 1,
+      "rn": 14
+    },
+    {
+      "category": "Importer",
+      "name": "Lamberti USA",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 19400.0,
+      "sum_containers": 1,
+      "rn": 15
+    },
+    {
+      "category": "Importer",
+      "name": "Distribuidora La Industrial",
+      "count_shipments": 2,
+      "sum_teu": null,
+      "sum_weight": 72200.1977665085,
+      "sum_containers": 4,
+      "rn": 16
+    },
+    {
+      "category": "Importer",
+      "name": "Margarine Thibault INC",
+      "count_shipments": 3,
+      "sum_teu": null,
+      "sum_weight": 144510.1650171005,
+      "sum_containers": 7,
+      "rn": 17
+    },
+    {
+      "category": "Importer",
+      "name": "Wansheng Material Science USA CO",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 40000.0907185819,
+      "sum_containers": 2,
+      "rn": 18
+    },
+    {
+      "category": "Importer",
+      "name": "Diageo Venezuela Ca",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 4399.8512215257,
+      "sum_containers": 1,
+      "rn": 19
+    },
+    {
+      "category": "Importer",
+      "name": "Unspecified",
+      "count_shipments": 70978,
+      "sum_teu": 182313.0,
+      "sum_weight": 1871947252.6130219,
+      "sum_containers": 107611,
+      "rn": 20
+    },
+    {
+      "category": "Importer",
+      "name": "Mediterranean Shipping CO SRL",
+      "count_shipments": 35,
+      "sum_teu": 8082.0,
+      "sum_weight": 16338269.0,
+      "sum_containers": 4284,
+      "rn": 21
+    },
+    {
+      "category": "Importer",
+      "name": "Maersk Line",
+      "count_shipments": 18,
+      "sum_teu": 5915.0,
+      "sum_weight": 11.7934156453,
+      "sum_containers": 3240,
+      "rn": 22
+    },
+    {
+      "category": "Importer",
+      "name": "Chiquita Fresh Northamerica LLC",
+      "count_shipments": 310,
+      "sum_teu": 4182.0,
+      "sum_weight": 38237768.0,
+      "sum_containers": 2091,
+      "rn": 23
+    },
+    {
+      "category": "Importer",
+      "name": "Ikea Supply Ag",
+      "count_shipments": 1650,
+      "sum_teu": 3300.0,
+      "sum_weight": 10440443.93067286,
+      "sum_containers": 1650,
+      "rn": 24
+    },
+    {
+      "category": "Importer",
+      "name": "Ocean Network Express Pte LTD",
+      "count_shipments": 7,
+      "sum_teu": 3215.0,
+      "sum_weight": 1621.0,
+      "sum_containers": 1621,
+      "rn": 25
+    },
+    {
+      "category": "Importer",
+      "name": "Apex Maritime CO Lax INC",
+      "count_shipments": 1048,
+      "sum_teu": 3018.0,
+      "sum_weight": 26557017.704801735,
+      "sum_containers": 1714,
+      "rn": 26
+    },
+    {
+      "category": "Importer",
+      "name": "Dhl Global Forwarding",
+      "count_shipments": 1072,
+      "sum_teu": 2963.0,
+      "sum_weight": 21925215.28253395,
+      "sum_containers": 1628,
+      "rn": 27
+    },
+    {
+      "category": "Importer",
+      "name": "Flexpflort INTERNATIONAL LLC",
+      "count_shipments": 1076,
+      "sum_teu": 2682.0,
+      "sum_weight": 16984558.137892246,
+      "sum_containers": 1460,
+      "rn": 28
+    },
+    {
+      "category": "Importer",
+      "name": "Topocean Consolidation Serv CO LTD",
+      "count_shipments": 936,
+      "sum_teu": 2485.0,
+      "sum_weight": 20069323.737605575,
+      "sum_containers": 1391,
+      "rn": 29
+    },
+    {
+      "category": "Importer",
+      "name": "Home Depot USA INC",
+      "count_shipments": 704,
+      "sum_teu": 2185.0,
+      "sum_weight": 15625117.4437318,
+      "sum_containers": 1151,
+      "rn": 30
+    },
+    {
+      "category": "Importer",
+      "name": "Zim Integrated Shipping Services LTD",
+      "count_shipments": 9,
+      "sum_teu": 2164.0,
+      "sum_weight": 4379899.937404178,
+      "sum_containers": 1136,
+      "rn": 31
+    },
+    {
+      "category": "Importer",
+      "name": "Tropical Shipping USA LLC",
+      "count_shipments": 21,
+      "sum_teu": 2042.0,
+      "sum_weight": 1648610.4320744618,
+      "sum_containers": 1139,
+      "rn": 32
+    },
+    {
+      "category": "Importer",
+      "name": "Fns INC",
+      "count_shipments": 509,
+      "sum_teu": 2004.0,
+      "sum_weight": 7783995.684090682,
+      "sum_containers": 1024,
+      "rn": 33
+    },
+    {
+      "category": "Importer",
+      "name": "King Ocean Services LTD",
+      "count_shipments": 29,
+      "sum_teu": 1960.0,
+      "sum_weight": 4091657.972802569,
+      "sum_containers": 1095,
+      "rn": 34
+    },
+    {
+      "category": "Importer",
+      "name": "Expeditors INTERNATIONAL INC",
+      "count_shipments": 698,
+      "sum_teu": 1958.0,
+      "sum_weight": 11848147.838529997,
+      "sum_containers": 1085,
+      "rn": 35
+    },
+    {
+      "category": "Importer",
+      "name": "Tesla INC",
+      "count_shipments": 521,
+      "sum_teu": 1901.0,
+      "sum_weight": 13283945.679473106,
+      "sum_containers": 1013,
+      "rn": 36
+    },
+    {
+      "category": "Importer",
+      "name": "Dsv Airsea INC",
+      "count_shipments": 664,
+      "sum_teu": 1724.0,
+      "sum_weight": 11757794.440302636,
+      "sum_containers": 943,
+      "rn": 37
+    },
+    {
+      "category": "Importer",
+      "name": "Oec Freight Ny INC",
+      "count_shipments": 554,
+      "sum_teu": 1522.0,
+      "sum_weight": 13361943.56569386,
+      "sum_containers": 861,
+      "rn": 38
+    },
+    {
+      "category": "Importer",
+      "name": "Umax shipping inc",
+      "count_shipments": 651,
+      "sum_teu": 1445.0,
+      "sum_weight": 15422239.746604858,
+      "sum_containers": 923,
+      "rn": 39
+    },
+    {
+      "category": "Importer",
+      "name": "Bobs Discountfurniture LLC",
+      "count_shipments": 199,
+      "sum_teu": 1394.0,
+      "sum_weight": 4672287.767061898,
+      "sum_containers": 697,
+      "rn": 40
+    },
+    {
+      "category": "Importer",
+      "name": "Tatung Mexico SA",
+      "count_shipments": 18,
+      "sum_teu": 1352.0,
+      "sum_weight": 5062881.0,
+      "sum_containers": 676,
+      "rn": 41
+    },
+    {
+      "category": "Importer",
+      "name": "Sharkninja Operating LLC",
+      "count_shipments": 293,
+      "sum_teu": 1297.0,
+      "sum_weight": 6238088.0,
+      "sum_containers": 653,
+      "rn": 42
+    },
+    {
+      "category": "Importer",
+      "name": "Runergy usa trading llc",
+      "count_shipments": 57,
+      "sum_teu": 1250.0,
+      "sum_weight": 12378709.803231396,
+      "sum_containers": 625,
+      "rn": 43
+    },
+    {
+      "category": "Importer",
+      "name": "Fns INC Lax",
+      "count_shipments": 343,
+      "sum_teu": 1218.0,
+      "sum_weight": 4770813.012364943,
+      "sum_containers": 620,
+      "rn": 44
+    },
+    {
+      "category": "Importer",
+      "name": "Trade link usa inc",
+      "count_shipments": 609,
+      "sum_teu": 1218.0,
+      "sum_weight": 8616288.673603615,
+      "sum_containers": 634,
+      "rn": 45
+    },
+    {
+      "category": "Importer",
+      "name": "Netcity Ocean INTERNATIONAL INC",
+      "count_shipments": 590,
+      "sum_teu": 1203.0,
+      "sum_weight": 13998804.391260171,
+      "sum_containers": 912,
+      "rn": 46
+    },
+    {
+      "category": "Importer",
+      "name": "Hillerbrand Gori USA LLC",
+      "count_shipments": 697,
+      "sum_teu": 1182.0,
+      "sum_weight": 17585945.982309878,
+      "sum_containers": 884,
+      "rn": 47
+    },
+    {
+      "category": "Importer",
+      "name": "Prime Agency",
+      "count_shipments": 799,
+      "sum_teu": 1182.0,
+      "sum_weight": 13112749.854550898,
+      "sum_containers": 873,
+      "rn": 48
+    },
+    {
+      "category": "Importer",
+      "name": "Savino Del Bene USA INC",
+      "count_shipments": 471,
+      "sum_teu": 1161.0,
+      "sum_weight": 9625959.34590088,
+      "sum_containers": 669,
+      "rn": 49
+    },
+    {
+      "category": "Importer",
+      "name": "Dole Fresh Fruit CO",
+      "count_shipments": 331,
+      "sum_teu": 1148.0,
+      "sum_weight": 10805170.743992161,
+      "sum_containers": 574,
+      "rn": 50
+    },
+    {
+      "category": "Importer",
+      "name": "Samsung Electronics Argentina SA",
+      "count_shipments": 391,
+      "sum_teu": 1101.0,
+      "sum_weight": 3524310.2573595447,
+      "sum_containers": 562,
+      "rn": 51
+    },
+    {
+      "category": "Importer",
+      "name": "Maersk Agency USA INC",
+      "count_shipments": 19,
+      "sum_teu": 1097.0,
+      "sum_weight": 810.1169362521,
+      "sum_containers": 553,
+      "rn": 52
+    },
+    {
+      "category": "Importer",
+      "name": "Tanera Transport Nyc",
+      "count_shipments": 553,
+      "sum_teu": 1094.0,
+      "sum_weight": 7594760.452195844,
+      "sum_containers": 614,
+      "rn": 53
+    },
+    {
+      "category": "Importer",
+      "name": "Msc Bahamas LTD",
+      "count_shipments": 6,
+      "sum_teu": 1055.0,
+      "sum_weight": 2258345.0,
+      "sum_containers": 928,
+      "rn": 54
+    },
+    {
+      "category": "Importer",
+      "name": "Bestline Supply Chain USA INC",
+      "count_shipments": 495,
+      "sum_teu": 1004.0,
+      "sum_weight": 6995720.888851593,
+      "sum_containers": 524,
+      "rn": 55
+    },
+    {
+      "category": "Importer",
+      "name": "Drt INTERNATIONAL Logistics INC",
+      "count_shipments": 455,
+      "sum_teu": 985.0,
+      "sum_weight": 7143635.392929394,
+      "sum_containers": 505,
+      "rn": 56
+    },
+    {
+      "category": "Importer",
+      "name": "Ezocean logistics usa inc",
+      "count_shipments": 276,
+      "sum_teu": 982.0,
+      "sum_weight": 8442988.547885804,
+      "sum_containers": 515,
+      "rn": 57
+    },
+    {
+      "category": "Importer",
+      "name": "Abc Home Furnishings INC",
+      "count_shipments": 289,
+      "sum_teu": 978.0,
+      "sum_weight": 6895340.709591676,
+      "sum_containers": 489,
+      "rn": 58
+    },
+    {
+      "category": "Importer",
+      "name": "Wal Mart INC",
+      "count_shipments": 391,
+      "sum_teu": 961.0,
+      "sum_weight": 2404323.0,
+      "sum_containers": 503,
+      "rn": 59
+    },
+    {
+      "category": "Importer",
+      "name": "Zim Logistics USA LLC",
+      "count_shipments": 482,
+      "sum_teu": 945.0,
+      "sum_weight": 9210763.797234898,
+      "sum_containers": 515,
+      "rn": 60
+    },
+    {
+      "category": "Importer",
+      "name": "Del Monte Fresh Produce Na INC",
+      "count_shipments": 136,
+      "sum_teu": 936.0,
+      "sum_weight": 11255927.952018943,
+      "sum_containers": 468,
+      "rn": 61
+    },
+    {
+      "category": "Importer",
+      "name": "The Home Depot INC",
+      "count_shipments": 271,
+      "sum_teu": 909.0,
+      "sum_weight": 5598094.408723499,
+      "sum_containers": 489,
+      "rn": 62
+    },
+    {
+      "category": "Importer",
+      "name": "Seamax Freightinternational INC",
+      "count_shipments": 518,
+      "sum_teu": 883.0,
+      "sum_weight": 9492816.963639993,
+      "sum_containers": 652,
+      "rn": 63
+    },
+    {
+      "category": "Importer",
+      "name": "Old Navy LLC",
+      "count_shipments": 446,
+      "sum_teu": 877.0,
+      "sum_weight": 1066562.2141593562,
+      "sum_containers": 449,
+      "rn": 64
+    },
+    {
+      "category": "Importer",
+      "name": "Walmart INC",
+      "count_shipments": 244,
+      "sum_teu": 854.0,
+      "sum_weight": 2728232.0,
+      "sum_containers": 427,
+      "rn": 65
+    },
+    {
+      "category": "Importer",
+      "name": "Fyusen Logistics INC",
+      "count_shipments": 272,
+      "sum_teu": 834.0,
+      "sum_weight": 4100497.594551442,
+      "sum_containers": 451,
+      "rn": 66
+    },
+    {
+      "category": "Importer",
+      "name": "Euro America Container Line Inc",
+      "count_shipments": 397,
+      "sum_teu": 828.0,
+      "sum_weight": 6569856.866063085,
+      "sum_containers": 416,
+      "rn": 67
+    },
+    {
+      "category": "Importer",
+      "name": "Efl Container Lines USA LLC",
+      "count_shipments": 267,
+      "sum_teu": 820.0,
+      "sum_weight": 4435350.365405376,
+      "sum_containers": 432,
+      "rn": 68
+    },
+    {
+      "category": "Importer",
+      "name": "Seaboard Marine Inner",
+      "count_shipments": 14,
+      "sum_teu": 818.0,
+      "sum_weight": 3805720.41248832,
+      "sum_containers": 533,
+      "rn": 69
+    },
+    {
+      "category": "Importer",
+      "name": "Hapag Lloyd Shipping LTD",
+      "count_shipments": 5,
+      "sum_teu": 800.0,
+      "sum_weight": 2272895.0,
+      "sum_containers": 605,
+      "rn": 70
+    },
+    {
+      "category": "Importer",
+      "name": "Ftl Plus INC",
+      "count_shipments": 336,
+      "sum_teu": 785.0,
+      "sum_weight": 8534188.917799894,
+      "sum_containers": 515,
+      "rn": 71
+    },
+    {
+      "category": "Importer",
+      "name": "Sailun Tire USA Corp",
+      "count_shipments": 256,
+      "sum_teu": 784.0,
+      "sum_weight": 4678906.836062451,
+      "sum_containers": 392,
+      "rn": 72
+    },
+    {
+      "category": "Importer",
+      "name": "Fyffes North America INC",
+      "count_shipments": 180,
+      "sum_teu": 774.0,
+      "sum_weight": 8303592.66220936,
+      "sum_containers": 387,
+      "rn": 73
+    },
+    {
+      "category": "Importer",
+      "name": "Kubota Tractor Corp Na",
+      "count_shipments": 121,
+      "sum_teu": 769.0,
+      "sum_weight": 5656814.0,
+      "sum_containers": 386,
+      "rn": 74
+    },
+    {
+      "category": "Importer",
+      "name": "Midea America Corp.",
+      "count_shipments": 225,
+      "sum_teu": 744.0,
+      "sum_weight": 2540741.0,
+      "sum_containers": 380,
+      "rn": 75
+    },
+    {
+      "category": "Importer",
+      "name": "Mobis Parts America LLC",
+      "count_shipments": 36,
+      "sum_teu": 734.0,
+      "sum_weight": 1523147.5576199072,
+      "sum_containers": 367,
+      "rn": 76
+    },
+    {
+      "category": "Importer",
+      "name": "Unigreen Marine SA",
+      "count_shipments": 2,
+      "sum_teu": 723.0,
+      "sum_weight": 1458930.0,
+      "sum_containers": 449,
+      "rn": 77
+    },
+    {
+      "category": "Importer",
+      "name": "Tmall INC",
+      "count_shipments": 350,
+      "sum_teu": 710.0,
+      "sum_weight": 4941456.0,
+      "sum_containers": 355,
+      "rn": 78
+    },
+    {
+      "category": "Importer",
+      "name": "Lacinos Speedcargo Corp",
+      "count_shipments": 312,
+      "sum_teu": 689.0,
+      "sum_weight": 4199790.606998031,
+      "sum_containers": 370,
+      "rn": 79
+    },
+    {
+      "category": "Importer",
+      "name": "Dynasty Shipping INC",
+      "count_shipments": 335,
+      "sum_teu": 678.0,
+      "sum_weight": 5302480.774292168,
+      "sum_containers": 353,
+      "rn": 80
+    },
+    {
+      "category": "Importer",
+      "name": "Hapag Lloyd Sas",
+      "count_shipments": 4,
+      "sum_teu": 674.0,
+      "sum_weight": 1270015.0,
+      "sum_containers": 337,
+      "rn": 81
+    },
+    {
+      "category": "Importer",
+      "name": "JAS Forwarding USA INC",
+      "count_shipments": 223,
+      "sum_teu": 661.0,
+      "sum_weight": 4358534.337527555,
+      "sum_containers": 373,
+      "rn": 82
+    },
+    {
+      "category": "Importer",
+      "name": "Rt G Furniture Corp Fl",
+      "count_shipments": 250,
+      "sum_teu": 660.0,
+      "sum_weight": 2704367.423047963,
+      "sum_containers": 330,
+      "rn": 83
+    },
+    {
+      "category": "Importer",
+      "name": "Targeting A INC",
+      "count_shipments": 333,
+      "sum_teu": 660.0,
+      "sum_weight": 4814620.680888317,
+      "sum_containers": 344,
+      "rn": 84
+    },
+    {
+      "category": "Importer",
+      "name": "Hmm CO LTD",
+      "count_shipments": 5,
+      "sum_teu": 660.0,
+      "sum_weight": 1269780.0,
+      "sum_containers": 358,
+      "rn": 85
+    },
+    {
+      "category": "Importer",
+      "name": "Zehong Usa Supply Chain Co Ltd",
+      "count_shipments": 222,
+      "sum_teu": 657.0,
+      "sum_weight": 7146433.443867877,
+      "sum_containers": 382,
+      "rn": 86
+    },
+    {
+      "category": "Importer",
+      "name": "Heineken USA INC",
+      "count_shipments": 49,
+      "sum_teu": 656.0,
+      "sum_weight": 8378899.572470539,
+      "sum_containers": 328,
+      "rn": 87
+    },
+    {
+      "category": "Importer",
+      "name": "Oec Groupchicago",
+      "count_shipments": 263,
+      "sum_teu": 654.0,
+      "sum_weight": 6327074.326332883,
+      "sum_containers": 391,
+      "rn": 88
+    },
+    {
+      "category": "Importer",
+      "name": "Rohling USA LLC",
+      "count_shipments": 193,
+      "sum_teu": 652.0,
+      "sum_weight": 4452057.982826972,
+      "sum_containers": 367,
+      "rn": 89
+    },
+    {
+      "category": "Importer",
+      "name": "Barsan Global Logistics CO LTD",
+      "count_shipments": 376,
+      "sum_teu": 648.0,
+      "sum_weight": 10411806.9339478,
+      "sum_containers": 514,
+      "rn": 90
+    },
+    {
+      "category": "Importer",
+      "name": "Gstfreight INC",
+      "count_shipments": 324,
+      "sum_teu": 647.0,
+      "sum_weight": 4367142.615743303,
+      "sum_containers": 324,
+      "rn": 91
+    },
+    {
+      "category": "Importer",
+      "name": "Electrolux consumer products inc",
+      "count_shipments": 144,
+      "sum_teu": 645.0,
+      "sum_weight": 2875308.1766018635,
+      "sum_containers": 329,
+      "rn": 92
+    },
+    {
+      "category": "Importer",
+      "name": "Adidas INTERNATIONAL TRADING",
+      "count_shipments": 298,
+      "sum_teu": 642.0,
+      "sum_weight": 1962917.7562210266,
+      "sum_containers": 335,
+      "rn": 93
+    },
+    {
+      "category": "Importer",
+      "name": "Pudong Prime INTERNATIONAL Logistics Atlantic",
+      "count_shipments": 268,
+      "sum_teu": 640.0,
+      "sum_weight": 5613813.597127849,
+      "sum_containers": 383,
+      "rn": 94
+    },
+    {
+      "category": "Importer",
+      "name": "Cma Cgm",
+      "count_shipments": 5,
+      "sum_teu": 635.0,
+      "sum_weight": 1203447.0,
+      "sum_containers": 336,
+      "rn": 95
+    },
+    {
+      "category": "Importer",
+      "name": "Castlegate Logistics INC",
+      "count_shipments": 294,
+      "sum_teu": 630.0,
+      "sum_weight": 3016334.1167638865,
+      "sum_containers": 315,
+      "rn": 96
+    },
+    {
+      "category": "Importer",
+      "name": "Gloviis America INC",
+      "count_shipments": 123,
+      "sum_teu": 629.0,
+      "sum_weight": 5170858.103201459,
+      "sum_containers": 347,
+      "rn": 97
+    },
+    {
+      "category": "Importer",
+      "name": "Michelin North Amerac INC",
+      "count_shipments": 116,
+      "sum_teu": 625.0,
+      "sum_weight": 6362126.6966914935,
+      "sum_containers": 415,
+      "rn": 98
+    },
+    {
+      "category": "Importer",
+      "name": "Hellmann Worldwide Logistics PTY LTD",
+      "count_shipments": 208,
+      "sum_teu": 625.0,
+      "sum_weight": 4067898.7717157607,
+      "sum_containers": 362,
+      "rn": 99
+    },
+    {
+      "category": "Importer",
+      "name": "Hapag Lloyd Ag/nl",
+      "count_shipments": 8,
+      "sum_teu": 610.0,
+      "sum_weight": 1286155.0,
+      "sum_containers": 312,
+      "rn": 100
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Long Beach, California",
+      "count_shipments": 57351,
+      "sum_teu": 134479.0,
+      "sum_weight": 1058666498.2872423,
+      "sum_containers": 79086,
+      "rn": 1
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Los Angeles, California",
+      "count_shipments": 51645,
+      "sum_teu": 120536.0,
+      "sum_weight": 966593836.1770283,
+      "sum_containers": 73528,
+      "rn": 2
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "New York/Newark Area, Newark, New Jersey",
+      "count_shipments": 42874,
+      "sum_teu": 102890.0,
+      "sum_weight": 947078004.4094765,
+      "sum_containers": 63517,
+      "rn": 3
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Houston, Texas",
+      "count_shipments": 22071,
+      "sum_teu": 59825.0,
+      "sum_weight": 635651056.3640445,
+      "sum_containers": 38347,
+      "rn": 4
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Savannah, Georgia",
+      "count_shipments": 19296,
+      "sum_teu": 54378.0,
+      "sum_weight": 415008215.0197585,
+      "sum_containers": 32194,
+      "rn": 5
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Tacoma, Washington",
+      "count_shipments": 11212,
+      "sum_teu": 29655.0,
+      "sum_weight": 213220405.28762326,
+      "sum_containers": 17497,
+      "rn": 6
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Norfolk, Virginia",
+      "count_shipments": 12070,
+      "sum_teu": 29061.0,
+      "sum_weight": 236166949.57739657,
+      "sum_containers": 17986,
+      "rn": 7
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Charleston, South Carolina",
+      "count_shipments": 9363,
+      "sum_teu": 25345.0,
+      "sum_weight": 198845502.8581252,
+      "sum_containers": 15507,
+      "rn": 8
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Oakland, California",
+      "count_shipments": 8200,
+      "sum_teu": 20656.0,
+      "sum_weight": 176784021.3948617,
+      "sum_containers": 13267,
+      "rn": 9
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Miami, Florida",
+      "count_shipments": 6324,
+      "sum_teu": 16762.0,
+      "sum_weight": 160620176.70442072,
+      "sum_containers": 10222,
+      "rn": 10
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "New York, New York",
+      "count_shipments": 6504,
+      "sum_teu": 14078.0,
+      "sum_weight": 259471451.93100128,
+      "sum_containers": 8579,
+      "rn": 11
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Port Everglades, Florida",
+      "count_shipments": 5003,
+      "sum_teu": 13409.0,
+      "sum_weight": 141820572.13409114,
+      "sum_containers": 8522,
+      "rn": 12
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Baltimore, Maryland",
+      "count_shipments": 5187,
+      "sum_teu": 12993.0,
+      "sum_weight": 195030548.62607616,
+      "sum_containers": 8757,
+      "rn": 13
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Seattle, Washington",
+      "count_shipments": 4439,
+      "sum_teu": 11187.0,
+      "sum_weight": 145785133.41148135,
+      "sum_containers": 7191,
+      "rn": 14
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Philadelphia, Pennsylvania",
+      "count_shipments": 3413,
+      "sum_teu": 7553.0,
+      "sum_weight": 313412692.10810935,
+      "sum_containers": 4337,
+      "rn": 15
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Mobile, Alabama",
+      "count_shipments": 2427,
+      "sum_teu": 7381.0,
+      "sum_weight": 101522670.02116464,
+      "sum_containers": 4247,
+      "rn": 16
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "West Palm Beach, Florida",
+      "count_shipments": 2301,
+      "sum_teu": 7188.0,
+      "sum_weight": 25982725.746949587,
+      "sum_containers": 3874,
+      "rn": 17
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "San Juan, Puerto Rico",
+      "count_shipments": 2504,
+      "sum_teu": 6386.0,
+      "sum_weight": 65684968.442443594,
+      "sum_containers": 4541,
+      "rn": 18
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Jacksonville, Florida",
+      "count_shipments": 2596,
+      "sum_teu": 6072.0,
+      "sum_weight": 67296974.601818,
+      "sum_containers": 3785,
+      "rn": 19
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Gulfport, Mississippi",
+      "count_shipments": 457,
+      "sum_teu": 2756.0,
+      "sum_weight": 21959246.0,
+      "sum_containers": 1378,
+      "rn": 20
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Chester, Pennsylvania",
+      "count_shipments": 1075,
+      "sum_teu": 2682.0,
+      "sum_weight": 83465945.58239515,
+      "sum_containers": 1536,
+      "rn": 21
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "New Orleans, Louisiana",
+      "count_shipments": 506,
+      "sum_teu": 2330.0,
+      "sum_weight": 217043995.93112645,
+      "sum_containers": 1590,
+      "rn": 22
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Port Hueneme, California",
+      "count_shipments": 615,
+      "sum_teu": 2061.0,
+      "sum_weight": 22182514.505837742,
+      "sum_containers": 1059,
+      "rn": 23
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Wilmington, Delaware",
+      "count_shipments": 188,
+      "sum_teu": 1850.0,
+      "sum_weight": 104536259.0,
+      "sum_containers": 935,
+      "rn": 24
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Boston, Massachusetts",
+      "count_shipments": 849,
+      "sum_teu": 1821.0,
+      "sum_weight": 16297330.950141067,
+      "sum_containers": 1120,
+      "rn": 25
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Wilmington, North Carolina",
+      "count_shipments": 507,
+      "sum_teu": 1201.0,
+      "sum_weight": 50167210.82229137,
+      "sum_containers": 758,
+      "rn": 26
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Freeport, Texas",
+      "count_shipments": 265,
+      "sum_teu": 1114.0,
+      "sum_weight": 18049289.0,
+      "sum_containers": 637,
+      "rn": 27
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Tampa, Florida",
+      "count_shipments": 449,
+      "sum_teu": 872.0,
+      "sum_weight": 67340853.29094356,
+      "sum_containers": 537,
+      "rn": 28
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Portland, Maine",
+      "count_shipments": 181,
+      "sum_teu": 616.0,
+      "sum_weight": 5233463.0,
+      "sum_containers": 336,
+      "rn": 29
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Panama City, Florida",
+      "count_shipments": 137,
+      "sum_teu": 352.0,
+      "sum_weight": 1575536.3736154076,
+      "sum_containers": 176,
+      "rn": 30
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Everett, Washington",
+      "count_shipments": 338,
+      "sum_teu": 218.0,
+      "sum_weight": 13676776.0,
+      "sum_containers": 618,
+      "rn": 31
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Fernandina Beach, Florida",
+      "count_shipments": 7,
+      "sum_teu": 151.0,
+      "sum_weight": 330171.0,
+      "sum_containers": 143,
+      "rn": 32
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Charlotte Amalie, St. Thomas, Virgin Islands",
+      "count_shipments": 73,
+      "sum_teu": 132.0,
+      "sum_weight": 1420163.0,
+      "sum_containers": 82,
+      "rn": 33
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Christiansted, St. Croix, Virgin Islands",
+      "count_shipments": 68,
+      "sum_teu": 121.0,
+      "sum_weight": 54122881.0,
+      "sum_containers": 72,
+      "rn": 34
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Vancouver, Washington",
+      "count_shipments": 33,
+      "sum_teu": 73.0,
+      "sum_weight": 541564.0,
+      "sum_containers": 44,
+      "rn": 35
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Chicago, Illinois, including O\u2019Hare International Airport",
+      "count_shipments": 88,
+      "sum_teu": 22.0,
+      "sum_weight": 15282945.628044743,
+      "sum_containers": 92,
+      "rn": 36
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Portland, Oregon",
+      "count_shipments": 20,
+      "sum_teu": 16.0,
+      "sum_weight": 6134011.0,
+      "sum_containers": 20,
+      "rn": 37
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Minneapolis-St. Paul, Minnesota",
+      "count_shipments": 5,
+      "sum_teu": 14.0,
+      "sum_weight": 79793.0,
+      "sum_containers": 8,
+      "rn": 38
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Morgan City, Louisiana",
+      "count_shipments": 20,
+      "sum_teu": 12.0,
+      "sum_weight": 3792530.1216989774,
+      "sum_containers": 30,
+      "rn": 39
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Memphis, Tennessee",
+      "count_shipments": 3,
+      "sum_teu": 8.0,
+      "sum_weight": 55849.0,
+      "sum_containers": 6,
+      "rn": 40
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "New Bedford, Massachusetts",
+      "count_shipments": 3,
+      "sum_teu": 6.0,
+      "sum_weight": 694128.0,
+      "sum_containers": 9,
+      "rn": 41
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Detroit, Michigan",
+      "count_shipments": 128,
+      "sum_teu": 5.0,
+      "sum_weight": 21457185.5,
+      "sum_containers": 130,
+      "rn": 42
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Fort Myers, Florida",
+      "count_shipments": 1,
+      "sum_teu": 4.0,
+      "sum_weight": 57000.0,
+      "sum_containers": 2,
+      "rn": 43
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Honolulu, Hawaii",
+      "count_shipments": 11,
+      "sum_teu": 3.0,
+      "sum_weight": 1054429.0,
+      "sum_containers": 11,
+      "rn": 44
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Indianapolis, Indiana",
+      "count_shipments": 1,
+      "sum_teu": 2.0,
+      "sum_weight": 8219.0,
+      "sum_containers": 1,
+      "rn": 45
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Searsport, Maine",
+      "count_shipments": 4,
+      "sum_teu": 2.0,
+      "sum_weight": 22956.0,
+      "sum_containers": 4,
+      "rn": 46
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Denver, Colorado",
+      "count_shipments": 1,
+      "sum_teu": 2.0,
+      "sum_weight": 16814.0,
+      "sum_containers": 1,
+      "rn": 47
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Salt Lake City, Utah",
+      "count_shipments": 1,
+      "sum_teu": 2.0,
+      "sum_weight": 15791.0,
+      "sum_containers": 1,
+      "rn": 48
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Cleveland, Ohio",
+      "count_shipments": 1,
+      "sum_teu": 1.0,
+      "sum_weight": 3960.0,
+      "sum_containers": 1,
+      "rn": 49
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Lake Charles, Louisiana",
+      "count_shipments": 4,
+      "sum_teu": 0.0,
+      "sum_weight": 2640.0,
+      "sum_containers": 4,
+      "rn": 50
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Port Canaveral, Florida",
+      "count_shipments": 175,
+      "sum_teu": 0.0,
+      "sum_weight": 30100922.405330624,
+      "sum_containers": 175,
+      "rn": 51
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Sabine, Texas",
+      "count_shipments": 1,
+      "sum_teu": 0.0,
+      "sum_weight": 5.0,
+      "sum_containers": 1,
+      "rn": 52
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "San Francisco, California",
+      "count_shipments": 8,
+      "sum_teu": 0.0,
+      "sum_weight": 15891079.0,
+      "sum_containers": 8,
+      "rn": 53
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Port Angeles, Washington",
+      "count_shipments": 4,
+      "sum_teu": 0.0,
+      "sum_weight": 3347093.0,
+      "sum_containers": 4,
+      "rn": 54
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Toledo, Ohio",
+      "count_shipments": 1,
+      "sum_teu": 0.0,
+      "sum_weight": 5737000.0,
+      "sum_containers": 1,
+      "rn": 55
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Buffalo-Niagara Falls, New York",
+      "count_shipments": 4,
+      "sum_teu": 0.0,
+      "sum_weight": 30085384.0,
+      "sum_containers": 4,
+      "rn": 56
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Beaufort-Morehead City, North Carolina",
+      "count_shipments": 2,
+      "sum_teu": 0.0,
+      "sum_weight": 21796092.0,
+      "sum_containers": 2,
+      "rn": 57
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Perth Amboy, New Jersey",
+      "count_shipments": 3,
+      "sum_teu": 0.0,
+      "sum_weight": 45830.0,
+      "sum_containers": 3,
+      "rn": 58
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Pascagoula, Mississippi",
+      "count_shipments": 1,
+      "sum_teu": 0.0,
+      "sum_weight": 79565323.0,
+      "sum_containers": 1,
+      "rn": 59
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Brownsville, Texas",
+      "count_shipments": 11,
+      "sum_teu": 0.0,
+      "sum_weight": 51980309.0,
+      "sum_containers": 11,
+      "rn": 60
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Martinez, California",
+      "count_shipments": 4,
+      "sum_teu": 0.0,
+      "sum_weight": 50499176.0,
+      "sum_containers": 4,
+      "rn": 61
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Providence, Rhode Island",
+      "count_shipments": 11,
+      "sum_teu": 0.0,
+      "sum_weight": 13079124.0,
+      "sum_containers": 11,
+      "rn": 62
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Carquinez Strait, California",
+      "count_shipments": 5,
+      "sum_teu": 0.0,
+      "sum_weight": 11989232.0,
+      "sum_containers": 5,
+      "rn": 63
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Longview, Washington",
+      "count_shipments": 2,
+      "sum_teu": 0.0,
+      "sum_weight": 43300250.0,
+      "sum_containers": 2,
+      "rn": 64
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Monterey, California",
+      "count_shipments": 12,
+      "sum_teu": 0.0,
+      "sum_weight": 20800.0,
+      "sum_containers": 12,
+      "rn": 65
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Richmond, California",
+      "count_shipments": 5,
+      "sum_teu": 0.0,
+      "sum_weight": 19147340.0,
+      "sum_containers": 5,
+      "rn": 66
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "New London, Connecticut",
+      "count_shipments": 2,
+      "sum_teu": 0.0,
+      "sum_weight": 4781411.0,
+      "sum_containers": 54,
+      "rn": 67
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "New Haven, Connecticut",
+      "count_shipments": 7,
+      "sum_teu": 0.0,
+      "sum_weight": 20067906.0,
+      "sum_containers": 7,
+      "rn": 68
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Beaumont, Texas",
+      "count_shipments": 12,
+      "sum_teu": 0.0,
+      "sum_weight": 2633783.0,
+      "sum_containers": 12,
+      "rn": 69
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Bellingham, Washington",
+      "count_shipments": 1,
+      "sum_teu": 0.0,
+      "sum_weight": 428.0,
+      "sum_containers": 1,
+      "rn": 70
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Gramercy, Louisiana",
+      "count_shipments": 6,
+      "sum_teu": 0.0,
+      "sum_weight": 162548931.0,
+      "sum_containers": 6,
+      "rn": 71
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Milwaukee, Wisconsin",
+      "count_shipments": 6,
+      "sum_teu": 0.0,
+      "sum_weight": 21503813.0,
+      "sum_containers": 6,
+      "rn": 72
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Baton Rouge, Louisiana",
+      "count_shipments": 10,
+      "sum_teu": 0.0,
+      "sum_weight": 36049374.0,
+      "sum_containers": 10,
+      "rn": 73
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Brunswick, Georgia",
+      "count_shipments": 223,
+      "sum_teu": 0.0,
+      "sum_weight": 23339450.0,
+      "sum_containers": 223,
+      "rn": 74
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Port Arthur, Texas",
+      "count_shipments": 14,
+      "sum_teu": 0.0,
+      "sum_weight": 176914013.0,
+      "sum_containers": 14,
+      "rn": 75
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Corpus Christi, Texas",
+      "count_shipments": 13,
+      "sum_teu": 0.0,
+      "sum_weight": 103235665.0,
+      "sum_containers": 13,
+      "rn": 76
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Anacortes, Washington",
+      "count_shipments": 2,
+      "sum_teu": 0.0,
+      "sum_weight": 83806.0,
+      "sum_containers": 2,
+      "rn": 77
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "San Diego, California",
+      "count_shipments": 10,
+      "sum_teu": 0.0,
+      "sum_weight": 6327435.0,
+      "sum_containers": 19,
+      "rn": 78
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Galveston, Texas",
+      "count_shipments": 95,
+      "sum_teu": 0.0,
+      "sum_weight": 6071412.204044234,
+      "sum_containers": 95,
+      "rn": 79
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Ponce, Puerto Rico",
+      "count_shipments": 14,
+      "sum_teu": 0.0,
+      "sum_weight": 31170336.0,
+      "sum_containers": 30,
+      "rn": 80
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Portsmouth, New Hampshire",
+      "count_shipments": 2,
+      "sum_teu": 0.0,
+      "sum_weight": 81976000.0,
+      "sum_containers": 2,
+      "rn": 81
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Port Manatee, Florida",
+      "count_shipments": 89,
+      "sum_teu": 0.0,
+      "sum_weight": 16498135.0,
+      "sum_containers": 204,
+      "rn": 82
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Ashtabula/Conneaut, Ohio",
+      "count_shipments": 1,
+      "sum_teu": 0.0,
+      "sum_weight": 20001010.0,
+      "sum_containers": 1,
+      "rn": 83
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Oswego, New York",
+      "count_shipments": 1,
+      "sum_teu": 0.0,
+      "sum_weight": 2948351.25,
+      "sum_containers": 1,
+      "rn": 84
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "Stockton, California",
+      "count_shipments": 11,
+      "sum_teu": 0.0,
+      "sum_weight": 8314385.0,
+      "sum_containers": 11,
+      "rn": 85
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CVJD",
+      "count_shipments": 1,
+      "sum_teu": null,
+      "sum_weight": 85000.0,
+      "sum_containers": 0,
+      "rn": 1
+    },
+    {
+      "category": "Shipping Line",
+      "name": "TLVH",
+      "count_shipments": 6,
+      "sum_teu": null,
+      "sum_weight": 142650.0,
+      "sum_containers": 6,
+      "rn": 2
+    },
+    {
+      "category": "Shipping Line",
+      "name": "MSC MEDITERRANEAN SHIPPING COMPANY",
+      "count_shipments": 24599,
+      "sum_teu": 78743.0,
+      "sum_weight": 620993343.0,
+      "sum_containers": 46963,
+      "rn": 3
+    },
+    {
+      "category": "Shipping Line",
+      "name": "MAERSK LINE",
+      "count_shipments": 20503,
+      "sum_teu": 61612.0,
+      "sum_weight": 463808068.68727493,
+      "sum_containers": 35969,
+      "rn": 4
+    },
+    {
+      "category": "Shipping Line",
+      "name": "OCEAN NETWORK EXPRESS",
+      "count_shipments": 17015,
+      "sum_teu": 50661.0,
+      "sum_weight": 323031894.0,
+      "sum_containers": 29159,
+      "rn": 5
+    },
+    {
+      "category": "Shipping Line",
+      "name": "COMPAGNIE MARITIME D'AFFRETEMENT",
+      "count_shipments": 17924,
+      "sum_teu": 49480.0,
+      "sum_weight": 434375636.0,
+      "sum_containers": 28240,
+      "rn": 6
+    },
+    {
+      "category": "Shipping Line",
+      "name": "HAPAG-LLOYD CONTAINER LINE",
+      "count_shipments": 13985,
+      "sum_teu": 38090.0,
+      "sum_weight": 294390892.0,
+      "sum_containers": 23718,
+      "rn": 7
+    },
+    {
+      "category": "Shipping Line",
+      "name": "COSCO CONTAINER LINES AMERICAS",
+      "count_shipments": 13884,
+      "sum_teu": 37948.0,
+      "sum_weight": 235096562.0,
+      "sum_containers": 20655,
+      "rn": 8
+    },
+    {
+      "category": "Shipping Line",
+      "name": "ZIM INTEGRATED SHIPPING SERVICES LTD",
+      "count_shipments": 10297,
+      "sum_teu": 27229.0,
+      "sum_weight": 255995269.04141304,
+      "sum_containers": 16007,
+      "rn": 9
+    },
+    {
+      "category": "Shipping Line",
+      "name": "STAR FREIGHT SOLUTIONS",
+      "count_shipments": 11165,
+      "sum_teu": 26590.0,
+      "sum_weight": 173488202.0,
+      "sum_containers": 15112,
+      "rn": 10
+    },
+    {
+      "category": "Shipping Line",
+      "name": "EVERGREEN LINE",
+      "count_shipments": 8547,
+      "sum_teu": 21029.0,
+      "sum_weight": 145987024.0,
+      "sum_containers": 12357,
+      "rn": 11
+    },
+    {
+      "category": "Shipping Line",
+      "name": "HYUNDAI MERCHANT MARINE",
+      "count_shipments": 6414,
+      "sum_teu": 18642.0,
+      "sum_weight": 130727349.0,
+      "sum_containers": 10977,
+      "rn": 12
+    },
+    {
+      "category": "Shipping Line",
+      "name": "YANG MING JOINT SERVICE AGREEMENT ",
+      "count_shipments": 4411,
+      "sum_teu": 12187.0,
+      "sum_weight": 77261936.0,
+      "sum_containers": 6913,
+      "rn": 13
+    },
+    {
+      "category": "Shipping Line",
+      "name": "WAN HAI LINES LTD",
+      "count_shipments": 3710,
+      "sum_teu": 10457.0,
+      "sum_weight": 81702181.0,
+      "sum_containers": 6172,
+      "rn": 14
+    },
+    {
+      "category": "Shipping Line",
+      "name": "EXDO",
+      "count_shipments": 3717,
+      "sum_teu": 8484.0,
+      "sum_weight": 32316274.0,
+      "sum_containers": 4658,
+      "rn": 15
+    },
+    {
+      "category": "Shipping Line",
+      "name": "BANQ",
+      "count_shipments": 4634,
+      "sum_teu": 7938.0,
+      "sum_weight": 64528781.0,
+      "sum_containers": 6385,
+      "rn": 16
+    },
+    {
+      "category": "Shipping Line",
+      "name": "TROPICAL SHIPPING & CONSTRUCTION CO",
+      "count_shipments": 2380,
+      "sum_teu": 7606.0,
+      "sum_weight": 13359681.659905108,
+      "sum_containers": 4053,
+      "rn": 17
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SEABOARD MARINE LTD",
+      "count_shipments": 2659,
+      "sum_teu": 7329.0,
+      "sum_weight": 114405426.0,
+      "sum_containers": 4122,
+      "rn": 18
+    },
+    {
+      "category": "Shipping Line",
+      "name": "KFUN",
+      "count_shipments": 2701,
+      "sum_teu": 7251.0,
+      "sum_weight": 56346570.0,
+      "sum_containers": 4059,
+      "rn": 19
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CHSL",
+      "count_shipments": 3280,
+      "sum_teu": 5830.0,
+      "sum_weight": 42441775.0,
+      "sum_containers": 4335,
+      "rn": 20
+    },
+    {
+      "category": "Shipping Line",
+      "name": "DSVF",
+      "count_shipments": 2473,
+      "sum_teu": 5702.0,
+      "sum_weight": 22940560.58683129,
+      "sum_containers": 3149,
+      "rn": 21
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SM LINE CORPORATION ",
+      "count_shipments": 2202,
+      "sum_teu": 5642.0,
+      "sum_weight": 34825520.0,
+      "sum_containers": 3110,
+      "rn": 22
+    },
+    {
+      "category": "Shipping Line",
+      "name": "OERT",
+      "count_shipments": 1978,
+      "sum_teu": 5010.0,
+      "sum_weight": 36825541.0,
+      "sum_containers": 2885,
+      "rn": 23
+    },
+    {
+      "category": "Shipping Line",
+      "name": "GREAT WHITE FLEET CORP ",
+      "count_shipments": 603,
+      "sum_teu": 4752.0,
+      "sum_weight": 43078282.0,
+      "sum_containers": 2379,
+      "rn": 24
+    },
+    {
+      "category": "Shipping Line",
+      "name": "HNLT",
+      "count_shipments": 2015,
+      "sum_teu": 4371.0,
+      "sum_weight": 28080045.0,
+      "sum_containers": 2504,
+      "rn": 25
+    },
+    {
+      "category": "Shipping Line",
+      "name": "DMAL",
+      "count_shipments": 1837,
+      "sum_teu": 4321.0,
+      "sum_weight": 20883792.0,
+      "sum_containers": 2356,
+      "rn": 26
+    },
+    {
+      "category": "Shipping Line",
+      "name": "HYSL",
+      "count_shipments": 1274,
+      "sum_teu": 2963.0,
+      "sum_weight": 18739401.0,
+      "sum_containers": 1596,
+      "rn": 27
+    },
+    {
+      "category": "Shipping Line",
+      "name": "INDEPENDENT CONTAINER LINE",
+      "count_shipments": 1125,
+      "sum_teu": 2860.0,
+      "sum_weight": 18702575.40468652,
+      "sum_containers": 1657,
+      "rn": 28
+    },
+    {
+      "category": "Shipping Line",
+      "name": "FLXT",
+      "count_shipments": 1206,
+      "sum_teu": 2754.0,
+      "sum_weight": 13029258.0,
+      "sum_containers": 1549,
+      "rn": 29
+    },
+    {
+      "category": "Shipping Line",
+      "name": "DFDS",
+      "count_shipments": 1177,
+      "sum_teu": 2730.0,
+      "sum_weight": 11262849.0,
+      "sum_containers": 1510,
+      "rn": 30
+    },
+    {
+      "category": "Shipping Line",
+      "name": "KING OCEAN SERVICES LIMITED INC",
+      "count_shipments": 345,
+      "sum_teu": 2667.0,
+      "sum_weight": 9625236.54870227,
+      "sum_containers": 1509,
+      "rn": 31
+    },
+    {
+      "category": "Shipping Line",
+      "name": "DWCH",
+      "count_shipments": 1004,
+      "sum_teu": 2523.0,
+      "sum_weight": 16042073.0,
+      "sum_containers": 1349,
+      "rn": 32
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CROWLEY LATIN AMERICA SERVICES LLC",
+      "count_shipments": 897,
+      "sum_teu": 2411.0,
+      "sum_weight": 13518776.0,
+      "sum_containers": 1221,
+      "rn": 33
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SEALEAD SHIPPING PTE LTD ",
+      "count_shipments": 782,
+      "sum_teu": 2305.0,
+      "sum_weight": 21971780.0,
+      "sum_containers": 1526,
+      "rn": 34
+    },
+    {
+      "category": "Shipping Line",
+      "name": "ITGB",
+      "count_shipments": 1172,
+      "sum_teu": 2277.0,
+      "sum_weight": 44848837.0,
+      "sum_containers": 1437,
+      "rn": 35
+    },
+    {
+      "category": "Shipping Line",
+      "name": "BWLE",
+      "count_shipments": 994,
+      "sum_teu": 2182.0,
+      "sum_weight": 8224044.0,
+      "sum_containers": 1249,
+      "rn": 36
+    },
+    {
+      "category": "Shipping Line",
+      "name": "UWLD",
+      "count_shipments": 525,
+      "sum_teu": 2091.0,
+      "sum_weight": 7606849.0,
+      "sum_containers": 1092,
+      "rn": 37
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CGGM",
+      "count_shipments": 943,
+      "sum_teu": 1992.0,
+      "sum_weight": 5787564.0,
+      "sum_containers": 999,
+      "rn": 38
+    },
+    {
+      "category": "Shipping Line",
+      "name": "MLIL",
+      "count_shipments": 815,
+      "sum_teu": 1975.0,
+      "sum_weight": 19298758.0,
+      "sum_containers": 1200,
+      "rn": 39
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CGLS",
+      "count_shipments": 759,
+      "sum_teu": 1912.0,
+      "sum_weight": 13864601.0,
+      "sum_containers": 1014,
+      "rn": 40
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SYLC",
+      "count_shipments": 830,
+      "sum_teu": 1898.0,
+      "sum_weight": 11905631.0,
+      "sum_containers": 1000,
+      "rn": 41
+    },
+    {
+      "category": "Shipping Line",
+      "name": "OSTI",
+      "count_shipments": 888,
+      "sum_teu": 1893.0,
+      "sum_weight": 11791000.0,
+      "sum_containers": 1065,
+      "rn": 42
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SMMB",
+      "count_shipments": 744,
+      "sum_teu": 1855.0,
+      "sum_weight": 10299278.0,
+      "sum_containers": 973,
+      "rn": 43
+    },
+    {
+      "category": "Shipping Line",
+      "name": "EMIV",
+      "count_shipments": 444,
+      "sum_teu": 1789.0,
+      "sum_weight": 7984807.0,
+      "sum_containers": 973,
+      "rn": 44
+    },
+    {
+      "category": "Shipping Line",
+      "name": "MATSON NAVIGATION CO",
+      "count_shipments": 767,
+      "sum_teu": 1756.0,
+      "sum_weight": 10234182.437372427,
+      "sum_containers": 1040,
+      "rn": 45
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SXCO",
+      "count_shipments": 707,
+      "sum_teu": 1736.0,
+      "sum_weight": 9457729.0,
+      "sum_containers": 938,
+      "rn": 46
+    },
+    {
+      "category": "Shipping Line",
+      "name": "TXSL",
+      "count_shipments": 636,
+      "sum_teu": 1660.0,
+      "sum_weight": 11416241.0,
+      "sum_containers": 924,
+      "rn": 47
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SFOK",
+      "count_shipments": 1058,
+      "sum_teu": 1652.0,
+      "sum_weight": 17577079.0,
+      "sum_containers": 1301,
+      "rn": 48
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SVDL",
+      "count_shipments": 709,
+      "sum_teu": 1619.0,
+      "sum_weight": 10268475.0,
+      "sum_containers": 870,
+      "rn": 49
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CHQF",
+      "count_shipments": 960,
+      "sum_teu": 1563.0,
+      "sum_weight": 16376340.0,
+      "sum_containers": 1261,
+      "rn": 50
+    },
+    {
+      "category": "Shipping Line",
+      "name": "HANF",
+      "count_shipments": 1561,
+      "sum_teu": 1556.0,
+      "sum_weight": 83929.0,
+      "sum_containers": 1561,
+      "rn": 51
+    },
+    {
+      "category": "Shipping Line",
+      "name": "RSLC",
+      "count_shipments": 612,
+      "sum_teu": 1445.0,
+      "sum_weight": 8299035.0,
+      "sum_containers": 798,
+      "rn": 52
+    },
+    {
+      "category": "Shipping Line",
+      "name": "HEDE (HONGKONG) INTERNATIONAL SHIPPING LIMITED",
+      "count_shipments": 802,
+      "sum_teu": 1436.0,
+      "sum_weight": 10656454.0,
+      "sum_containers": 845,
+      "rn": 53
+    },
+    {
+      "category": "Shipping Line",
+      "name": "THGL",
+      "count_shipments": 535,
+      "sum_teu": 1351.0,
+      "sum_weight": 10290704.0,
+      "sum_containers": 769,
+      "rn": 54
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SHPT",
+      "count_shipments": 733,
+      "sum_teu": 1199.0,
+      "sum_weight": 1484152.0,
+      "sum_containers": 737,
+      "rn": 55
+    },
+    {
+      "category": "Shipping Line",
+      "name": "BQEG",
+      "count_shipments": 853,
+      "sum_teu": 1196.0,
+      "sum_weight": 19158854.0,
+      "sum_containers": 1067,
+      "rn": 56
+    },
+    {
+      "category": "Shipping Line",
+      "name": "PYMN",
+      "count_shipments": 687,
+      "sum_teu": 1196.0,
+      "sum_weight": 7397282.0,
+      "sum_containers": 926,
+      "rn": 57
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CHKM",
+      "count_shipments": 641,
+      "sum_teu": 1177.0,
+      "sum_weight": 1058496.0,
+      "sum_containers": 642,
+      "rn": 58
+    },
+    {
+      "category": "Shipping Line",
+      "name": "DOLG",
+      "count_shipments": 306,
+      "sum_teu": 1170.0,
+      "sum_weight": 15114350.0,
+      "sum_containers": 596,
+      "rn": 59
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SZIL",
+      "count_shipments": 496,
+      "sum_teu": 1142.0,
+      "sum_weight": 12630590.0,
+      "sum_containers": 736,
+      "rn": 60
+    },
+    {
+      "category": "Shipping Line",
+      "name": "ATLANTIC CONTAINER LINE AB",
+      "count_shipments": 607,
+      "sum_teu": 1134.0,
+      "sum_weight": 8953866.0,
+      "sum_containers": 762,
+      "rn": 61
+    },
+    {
+      "category": "Shipping Line",
+      "name": "TLKP",
+      "count_shipments": 508,
+      "sum_teu": 1128.0,
+      "sum_weight": 6863187.0,
+      "sum_containers": 592,
+      "rn": 62
+    },
+    {
+      "category": "Shipping Line",
+      "name": "UASI",
+      "count_shipments": 542,
+      "sum_teu": 1125.0,
+      "sum_weight": 4002792.0,
+      "sum_containers": 676,
+      "rn": 63
+    },
+    {
+      "category": "Shipping Line",
+      "name": "TURKON CONTAINER TRANSPORTATION & SHIPPING ",
+      "count_shipments": 398,
+      "sum_teu": 1121.0,
+      "sum_weight": 9784023.0,
+      "sum_containers": 690,
+      "rn": 64
+    },
+    {
+      "category": "Shipping Line",
+      "name": "AMZD",
+      "count_shipments": 2233,
+      "sum_teu": 1081.0,
+      "sum_weight": 12037719.0,
+      "sum_containers": 2240,
+      "rn": 65
+    },
+    {
+      "category": "Shipping Line",
+      "name": "KORP",
+      "count_shipments": 347,
+      "sum_teu": 1077.0,
+      "sum_weight": 75515379.0,
+      "sum_containers": 622,
+      "rn": 66
+    },
+    {
+      "category": "Shipping Line",
+      "name": "EFLR",
+      "count_shipments": 418,
+      "sum_teu": 1076.0,
+      "sum_weight": 3564220.0,
+      "sum_containers": 582,
+      "rn": 67
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CTYO",
+      "count_shipments": 535,
+      "sum_teu": 1062.0,
+      "sum_weight": 10974363.0,
+      "sum_containers": 824,
+      "rn": 68
+    },
+    {
+      "category": "Shipping Line",
+      "name": "WWLL",
+      "count_shipments": 387,
+      "sum_teu": 1026.0,
+      "sum_weight": 18523809.0,
+      "sum_containers": 988,
+      "rn": 69
+    },
+    {
+      "category": "Shipping Line",
+      "name": "RLUS",
+      "count_shipments": 361,
+      "sum_teu": 1024.0,
+      "sum_weight": 6616735.0,
+      "sum_containers": 573,
+      "rn": 70
+    },
+    {
+      "category": "Shipping Line",
+      "name": "PPIL",
+      "count_shipments": 442,
+      "sum_teu": 1011.0,
+      "sum_weight": 8466578.0,
+      "sum_containers": 591,
+      "rn": 71
+    },
+    {
+      "category": "Shipping Line",
+      "name": "RLCL",
+      "count_shipments": 238,
+      "sum_teu": 996.0,
+      "sum_weight": 5793169.0,
+      "sum_containers": 525,
+      "rn": 72
+    },
+    {
+      "category": "Shipping Line",
+      "name": "GSDR",
+      "count_shipments": 494,
+      "sum_teu": 994.0,
+      "sum_weight": 6535891.0,
+      "sum_containers": 498,
+      "rn": 73
+    },
+    {
+      "category": "Shipping Line",
+      "name": "COHE",
+      "count_shipments": 428,
+      "sum_teu": 954.0,
+      "sum_weight": 4273816.0,
+      "sum_containers": 504,
+      "rn": 74
+    },
+    {
+      "category": "Shipping Line",
+      "name": "PUSJ",
+      "count_shipments": 344,
+      "sum_teu": 949.0,
+      "sum_weight": 5481070.0,
+      "sum_containers": 542,
+      "rn": 75
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CWQG",
+      "count_shipments": 404,
+      "sum_teu": 947.0,
+      "sum_weight": 7933854.0,
+      "sum_containers": 538,
+      "rn": 76
+    },
+    {
+      "category": "Shipping Line",
+      "name": "NXGW",
+      "count_shipments": 420,
+      "sum_teu": 934.0,
+      "sum_weight": 3774873.0,
+      "sum_containers": 557,
+      "rn": 77
+    },
+    {
+      "category": "Shipping Line",
+      "name": "MCLM",
+      "count_shipments": 435,
+      "sum_teu": 879.0,
+      "sum_weight": 4886837.0,
+      "sum_containers": 641,
+      "rn": 78
+    },
+    {
+      "category": "Shipping Line",
+      "name": "CCLL",
+      "count_shipments": 375,
+      "sum_teu": 875.0,
+      "sum_weight": 5292718.0,
+      "sum_containers": 501,
+      "rn": 79
+    },
+    {
+      "category": "Shipping Line",
+      "name": "KWEO",
+      "count_shipments": 476,
+      "sum_teu": 873.0,
+      "sum_weight": 9481187.0,
+      "sum_containers": 867,
+      "rn": 80
+    },
+    {
+      "category": "Shipping Line",
+      "name": "DCSD",
+      "count_shipments": 466,
+      "sum_teu": 865.0,
+      "sum_weight": 8514516.0,
+      "sum_containers": 573,
+      "rn": 81
+    },
+    {
+      "category": "Shipping Line",
+      "name": "GUGW",
+      "count_shipments": 432,
+      "sum_teu": 863.0,
+      "sum_weight": 5611999.0,
+      "sum_containers": 433,
+      "rn": 82
+    },
+    {
+      "category": "Shipping Line",
+      "name": "FTNV",
+      "count_shipments": 430,
+      "sum_teu": 842.0,
+      "sum_weight": 3133488.0,
+      "sum_containers": 493,
+      "rn": 83
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SGOI",
+      "count_shipments": 405,
+      "sum_teu": 807.0,
+      "sum_weight": 2051393.0,
+      "sum_containers": 405,
+      "rn": 84
+    },
+    {
+      "category": "Shipping Line",
+      "name": "FEVM",
+      "count_shipments": 365,
+      "sum_teu": 802.0,
+      "sum_weight": 5008401.0,
+      "sum_containers": 429,
+      "rn": 85
+    },
+    {
+      "category": "Shipping Line",
+      "name": "GOLA",
+      "count_shipments": 544,
+      "sum_teu": 778.0,
+      "sum_weight": 6006073.0,
+      "sum_containers": 735,
+      "rn": 86
+    },
+    {
+      "category": "Shipping Line",
+      "name": "NXHS",
+      "count_shipments": 353,
+      "sum_teu": 770.0,
+      "sum_weight": 5104312.0,
+      "sum_containers": 397,
+      "rn": 87
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SDBJ",
+      "count_shipments": 327,
+      "sum_teu": 764.0,
+      "sum_weight": 5820975.0,
+      "sum_containers": 469,
+      "rn": 88
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SZQN",
+      "count_shipments": 364,
+      "sum_teu": 746.0,
+      "sum_weight": 4601380.0,
+      "sum_containers": 375,
+      "rn": 89
+    },
+    {
+      "category": "Shipping Line",
+      "name": "NETWORK SHIPPING LTD (A LIBERIAN CO",
+      "count_shipments": 75,
+      "sum_teu": 736.0,
+      "sum_weight": 7043565.0,
+      "sum_containers": 368,
+      "rn": 90
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SGPV",
+      "count_shipments": 304,
+      "sum_teu": 694.0,
+      "sum_weight": 4641365.0,
+      "sum_containers": 362,
+      "rn": 91
+    },
+    {
+      "category": "Shipping Line",
+      "name": "FSIH",
+      "count_shipments": 344,
+      "sum_teu": 688.0,
+      "sum_weight": 3661990.0,
+      "sum_containers": 344,
+      "rn": 92
+    },
+    {
+      "category": "Shipping Line",
+      "name": "NPSC",
+      "count_shipments": 271,
+      "sum_teu": 681.0,
+      "sum_weight": 5047696.0,
+      "sum_containers": 378,
+      "rn": 93
+    },
+    {
+      "category": "Shipping Line",
+      "name": "MFGT",
+      "count_shipments": 299,
+      "sum_teu": 680.0,
+      "sum_weight": 3590012.0,
+      "sum_containers": 378,
+      "rn": 94
+    },
+    {
+      "category": "Shipping Line",
+      "name": "EVHL",
+      "count_shipments": 320,
+      "sum_teu": 639.0,
+      "sum_weight": 4542902.0,
+      "sum_containers": 320,
+      "rn": 95
+    },
+    {
+      "category": "Shipping Line",
+      "name": "YASV",
+      "count_shipments": 222,
+      "sum_teu": 639.0,
+      "sum_weight": 2604978.0,
+      "sum_containers": 340,
+      "rn": 96
+    },
+    {
+      "category": "Shipping Line",
+      "name": "OBLM",
+      "count_shipments": 290,
+      "sum_teu": 633.0,
+      "sum_weight": 3971443.0,
+      "sum_containers": 318,
+      "rn": 97
+    },
+    {
+      "category": "Shipping Line",
+      "name": "ABTB",
+      "count_shipments": 303,
+      "sum_teu": 633.0,
+      "sum_weight": 4203743.0,
+      "sum_containers": 339,
+      "rn": 98
+    },
+    {
+      "category": "Shipping Line",
+      "name": "JSSY",
+      "count_shipments": 238,
+      "sum_teu": 630.0,
+      "sum_weight": 5172853.0,
+      "sum_containers": 398,
+      "rn": 99
+    },
+    {
+      "category": "Shipping Line",
+      "name": "SSLL",
+      "count_shipments": 343,
+      "sum_teu": 626.0,
+      "sum_weight": 457499.0,
+      "sum_containers": 343,
+      "rn": 100
+    }
+  ],
+  "census_time_series": [
+    {
+      "y": 2025,
+      "m": 8,
+      "val_total": 1050346272118.0,
+      "wgt_total": 197350293286.0,
+      "val_air": 296963760274.0,
+      "wgt_air": 1820006914.0,
+      "val_sea": 446074869492.0,
+      "wgt_sea": 195530286372.0,
+      "val_land": 307307642352.0,
+      "wgt_land": 0
+    },
+    {
+      "y": 2025,
+      "m": 7,
+      "val_total": 1168749009052.0,
+      "wgt_total": 206350218422.0,
+      "val_air": 375824553180.0,
+      "wgt_air": 2014674426.0,
+      "val_sea": 476664142732.0,
+      "wgt_sea": 204335543996.0,
+      "val_land": 316260313140.0,
+      "wgt_land": 0
+    },
+    {
+      "y": 2025,
+      "m": 6,
+      "val_total": 1061942278288.0,
+      "wgt_total": 192400721300.0,
+      "val_air": 321716219796.0,
+      "wgt_air": 1861157776.0,
+      "val_sea": 433451248360.0,
+      "wgt_sea": 190539563524.0,
+      "val_land": 306774810132.0,
+      "wgt_land": 0
+    },
+    {
+      "y": 2025,
+      "m": 5,
+      "val_total": 1105874005690.0,
+      "wgt_total": 201927302972.0,
+      "val_air": 345254897942.0,
+      "wgt_air": 1903049016.0,
+      "val_sea": 448108615148.0,
+      "wgt_sea": 200024253956.0,
+      "val_land": 312510492600.0,
+      "wgt_land": 0
+    },
+    {
+      "y": 2025,
+      "m": 4,
+      "val_total": 1104208724914.0,
+      "wgt_total": 196205972902.0,
+      "val_air": 347448817782.0,
+      "wgt_air": 1870250414.0,
+      "val_sea": 458528830224.0,
+      "wgt_sea": 194335722488.0,
+      "val_land": 298231076908.0,
+      "wgt_land": 0
+    },
+    {
+      "y": 2025,
+      "m": 3,
+      "val_total": 1370224471304.0,
+      "wgt_total": 199653937476.0,
+      "val_air": 533043504460.0,
+      "wgt_air": 1830057632.0,
+      "val_sea": 488670489664.0,
+      "wgt_sea": 197823879844.0,
+      "val_land": 348510477180.0,
+      "wgt_land": 0
+    },
+    {
+      "y": 2025,
+      "m": 2,
+      "val_total": 1152571138996.0,
+      "wgt_total": 169373422574.0,
+      "val_air": 412055754008.0,
+      "wgt_air": 1602795974.0,
+      "val_sea": 421323908236.0,
+      "wgt_sea": 167770626600.0,
+      "val_land": 319191476752.0,
+      "wgt_land": 0
+    },
+    {
+      "y": 2025,
+      "m": 1,
+      "val_total": 1269060230520.0,
+      "wgt_total": 195878742156.0,
+      "val_air": 460522528864.0,
+      "wgt_air": 1734583024.0,
+      "val_sea": 479677894640.0,
+      "wgt_sea": 194144159132.0,
+      "val_land": 328859807016.0,
+      "wgt_land": 0
+    },
+    {
+      "y": 2024,
+      "m": 12,
+      "val_total": 1138984120656.0,
+      "wgt_total": 188564762294.0,
+      "val_air": 365515063230.0,
+      "wgt_air": 1856922826.0,
+      "val_sea": 468092256436.0,
+      "wgt_sea": 186707839468.0,
+      "val_land": 305376800990.0,
+      "wgt_land": 0
+    }
+  ],
+  "census_rankings": [
+    {
+      "category": "Country of Origin",
+      "name": "TOTAL FOR ALL COUNTRIES",
+      "mode": "sea",
+      "value": 223037434746.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "CHINA",
+      "mode": "sea",
+      "value": 35935558388.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "VIETNAM",
+      "mode": "sea",
+      "value": 19285975724.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "JAPAN",
+      "mode": "sea",
+      "value": 16781415702.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "KOREA, SOUTH",
+      "mode": "sea",
+      "value": 15158467420.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "TOTAL FOR ALL COUNTRIES",
+      "mode": "air",
+      "value": 148481880137.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "TAIWAN",
+      "mode": "air",
+      "value": 28858779954.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "VIETNAM",
+      "mode": "air",
+      "value": 12419883505.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "CHINA",
+      "mode": "air",
+      "value": 9723711817.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "GERMANY",
+      "mode": "air",
+      "value": 8155055980.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "TOTAL FOR ALL COUNTRIES",
+      "mode": "land",
+      "value": 153653821176.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "MEXICO",
+      "mode": "land",
+      "value": 82649053750.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "CANADA",
+      "mode": "land",
+      "value": 53340825188.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "CHINA",
+      "mode": "land",
+      "value": 4599393842.0
+    },
+    {
+      "category": "Country of Origin",
+      "name": "GERMANY",
+      "mode": "land",
+      "value": 1508550290.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "TOTAL FOR ALL PORTS",
+      "mode": "sea",
+      "value": 223037434746.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "LOS ANGELES, CA",
+      "mode": "sea",
+      "value": 46364757500.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "NEWARK, NJ",
+      "mode": "sea",
+      "value": 30832678164.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "SAVANNAH, GA",
+      "mode": "sea",
+      "value": 16498273886.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "HOUSTON, TX",
+      "mode": "sea",
+      "value": 14028158398.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "TOTAL FOR ALL PORTS",
+      "mode": "air",
+      "value": 148571771888.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "CHICAGO, IL",
+      "mode": "air",
+      "value": 34534055760.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "LOS ANGELES INTERNATIONAL AIRPORT, CA",
+      "mode": "air",
+      "value": 17025978316.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "JFK INTERNATIONAL AIRPORT, NY",
+      "mode": "air",
+      "value": 15762166018.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "SAN FRANCISCO INTERNATIONAL AIRPORT, CA",
+      "mode": "air",
+      "value": 14308604232.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "TOTAL FOR ALL PORTS",
+      "mode": "land",
+      "value": 153653821176.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "LAREDO, TX",
+      "mode": "land",
+      "value": 39179637230.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "YSLETA, TX",
+      "mode": "land",
+      "value": 14093663830.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "PORT HURON, MI",
+      "mode": "land",
+      "value": 10935331926.0
+    },
+    {
+      "category": "Port of Arrival",
+      "name": "DETROIT, MI",
+      "mode": "land",
+      "value": 9654055004.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8703 - MOTOR CARS & VEHICLES FOR TRANSPORTING PERSONS",
+      "mode": "sea",
+      "value": 37825564472.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2709 - CRUDE OIL FROM PETROLEUM AND BITUMINOUS MINERALS",
+      "mode": "sea",
+      "value": 22801775744.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2710 - OIL (NOT CRUDE) FROM PETROL & BITUM MINERAL ETC.",
+      "mode": "sea",
+      "value": 16552027152.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8708 - PARTS & ACCESS FOR MOTOR VEHICLES (HEAD 8701-8705)",
+      "mode": "sea",
+      "value": 11118436344.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8507 - ELECTRIC STORAGE BATTERIES, INCL SEPARATORS, PARTS",
+      "mode": "sea",
+      "value": 7587619508.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8471 - AUTOMATIC DATA PROCESS MACHINES; MAGN READER ETC",
+      "mode": "air",
+      "value": 56135273772.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8517 - PHONE SETS; OTH APPARAT TRANS/RECEP VOICE/IMG/DATA",
+      "mode": "air",
+      "value": 28234924168.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 9801 - EXPTS OF REPAIRED IMPTS; IMPTS OF RETURNED EXPTS",
+      "mode": "air",
+      "value": 24408584034.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 3002 - HUMAN BLOOD; ANIMAL BLOOD; ANTISERA, VACCINES ETC",
+      "mode": "air",
+      "value": 23297662890.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8473 - PARTS ETC FOR TYPEWRITERS & OTHER OFFICE MACHINES",
+      "mode": "air",
+      "value": 20982036184.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8471 - AUTOMATIC DATA PROCESS MACHINES; MAGN READER ETC",
+      "mode": "land",
+      "value": 34360259884.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 2709 - CRUDE OIL FROM PETROLEUM AND BITUMINOUS MINERALS",
+      "mode": "land",
+      "value": 26219812972.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8708 - PARTS & ACCESS FOR MOTOR VEHICLES (HEAD 8701-8705)",
+      "mode": "land",
+      "value": 18522814192.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8703 - MOTOR CARS & VEHICLES FOR TRANSPORTING PERSONS",
+      "mode": "land",
+      "value": 17781885192.0
+    },
+    {
+      "category": "Commodities",
+      "name": "HS 8704 - MOTOR VEHICLES FOR TRANSPORT OF GOODS",
+      "mode": "land",
+      "value": 11433800916.0
+    }
+  ]
+}
